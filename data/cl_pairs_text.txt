@@ -1,0 +1,2235 @@
+information system|database|1
+information system|data model|2
+information system|data structure|2
+information system|data compression|4
+information system|data encryption|4
+information system|security and privacy|0
+information system|network|0
+information system|hcc|0
+information system|catalog|3
+information system|mirroring|3
+information system|raid|3
+information system|da|4
+information system|na|4
+information system|cloud storage|3
+information system|deduplication|3
+information system|buffer management|3
+information system|query language|2
+information system|view|3
+information system|data stream|4
+information system|query optimization|4
+information system|etl|3
+information system|data exchange|3
+information system|data cleaning|3
+information system|information integration|2
+information system|wrapper|3
+information system|enterprise information system|2
+information system|intranet|3
+information system|extranet|3
+information system|enterprise resource planning|3
+information system|geographic information system|3
+information system|sensor network|3
+information system|decision support system|2
+information system|data warehouse|3
+information system|expert system|3
+information system|data analysis|3
+information system|multimedia database|3
+information system|multimedia streaming|3
+information system|mmog|3
+information system|world wide web|1
+information system|crawling|4
+information system|spam detection|4
+information system|collaborative filtering|3
+information system|personalization|3
+information system|online advertising|2
+information system|sponsored search|3
+information system|viral marketing|3
+information system|web mining|2
+information system|data extraction|3
+information system|traffic analysis|3
+information system|web application|2
+information system|email|4
+information system|blog|4
+information system|texting|4
+information system|chat|4
+information system|webcast|4
+information system|crowdsourcing|3
+information system|trust|4
+information system|incentive mechanism|4
+information system|wikis|3
+information system|browser|3
+information system|mashups|3
+information system|web service|2
+information system|soap|3
+information system|rest|3
+information system|wsdl|3
+information system|uddi|3
+information system|xpath|4
+information system|xquery|4
+information system|rdf|4
+information system|owl|4
+information system|information retrieval|1
+information system|topic model|3
+information system|content analysis|3
+information system|query suggestion|3
+information system|language model|3
+information system|similarity measure|3
+information system|learning to rank|3
+information system|question answering|3
+information system|recommender system|3
+information system|data mining|2
+information system|information extraction|3
+information system|sentiment analysis|3
+information system|expert finding|3
+information system|document clustering|3
+information system|summarization|3
+information system|social tagging|3
+information system|image search|4
+information system|video search|4
+information system|music information retrieval|4
+information system|digital archive|2
+information system|application server|3
+information system|heap|4
+information system|linked-list|4
+information system|b-trees|4
+information system|locking|4
+information system|logging|4
+information system|shard|4
+information system|association rule|3
+information system|clustering|3
+information system|similarity search|3
+information system|data stream mining|3
+information system|reputation system|3
+information system|flash memory|4
+information system|phase change memory|4
+information system|distributed storage|3
+information system|electronic commerce|3
+information system|e-money|4
+information system|edi|4
+information system|electronic payment|4
+information system|online shopping|4
+information system|e-banking|4
+information system|online auction|4
+information system|open source software|3
+information system|lineage|4
+information system|incomplete data|4
+information system|novelty|3
+information system|computer application|0
+information system|temporal database|4
+information system|social networking site|3
+information system|hardware|0
+information system|physical model|3
+information system|extension|3
+information system|uncertainty|4
+information system|sql|4
+information system|deadlock|4
+information system|mapreduce|4
+information system|olap|3
+information system|deep web|4
+information system|surfacing|4
+information system|web service discovery|3
+information system|cocitation|3
+information system|web search|4
+information system|data center|3
+information system|platform|2
+information system|software|0
+information system|bpm|3
+information system|ontology|3
+information system|dictionary|3
+information system|thesaurus|3
+information system|global positioning system|3
+information system|business intelligence|3
+database|data model|1
+database|data structure|1
+database|data compression|3
+database|data encryption|3
+database|deduplication|2
+database|buffer management|2
+database|query language|1
+database|view|2
+database|data stream|3
+database|query optimization|3
+database|etl|2
+database|data exchange|2
+database|information integration|1
+database|wrapper|2
+database|world wide web|0
+database|xpath|3
+database|xquery|3
+database|information retrieval|0
+database|application server|2
+database|locking|3
+database|logging|3
+database|lineage|3
+database|incomplete data|3
+database|temporal database|3
+database|physical model|2
+database|extension|2
+database|uncertainty|3
+database|sql|3
+database|deadlock|3
+database|mapreduce|3
+database|bpm|2
+data model|data structure|0
+data model|query language|0
+data model|data stream|2
+data model|information integration|0
+data model|lineage|2
+data model|incomplete data|2
+data model|temporal database|2
+data model|physical model|1
+data model|extension|1
+data model|uncertainty|2
+data structure|data compression|2
+data structure|data encryption|2
+data structure|query language|0
+data structure|information integration|0
+data compression|data encryption|0
+security and privacy|cryptography|1
+security and privacy|key management|2
+security and privacy|cryptanalysis|2
+security and privacy|authentication|2
+security and privacy|access control|2
+security and privacy|anonymity|2
+security and privacy|digital right management|2
+security and privacy|spyware|2
+security and privacy|intrusion detection system|2
+security and privacy|system security|1
+security and privacy|mobile security|3
+security and privacy|trusted computing|3
+security and privacy|database security|1
+security and privacy|software security|1
+security and privacy|network|0
+security and privacy|hcc|0
+security and privacy|biometrics|3
+security and privacy|hardware implementation|2
+security and privacy|computer application|0
+security and privacy|hardware|0
+security and privacy|authorization|2
+security and privacy|software|0
+security and privacy|privacy protection|2
+security and privacy|block cipher|3
+security and privacy|hash function|3
+security and privacy|digital signature|3
+security and privacy|dam|2
+security and privacy|information flow control|2
+security and privacy|do attack|2
+security and privacy|spoofing|3
+security and privacy|phishing|3
+security and privacy|firewall|2
+security and privacy|tfa|3
+security and privacy|public key encryption|3
+cryptography|key management|1
+cryptography|cryptanalysis|1
+cryptography|system security|0
+cryptography|database security|0
+cryptography|software security|0
+cryptography|block cipher|2
+cryptography|hash function|2
+cryptography|digital signature|2
+cryptography|public key encryption|2
+key management|cryptanalysis|0
+authentication|access control|0
+authentication|anonymity|0
+authentication|digital right management|0
+authentication|biometrics|1
+authentication|authorization|0
+authentication|tfa|1
+access control|anonymity|0
+access control|digital right management|0
+access control|authorization|0
+anonymity|digital right management|0
+anonymity|authorization|0
+digital right management|authorization|0
+spyware|intrusion detection system|0
+system security|mobile security|2
+system security|trusted computing|2
+system security|database security|0
+system security|software security|0
+system security|information flow control|1
+system security|do attack|1
+system security|firewall|1
+mobile security|trusted computing|0
+network security|security protocol|1
+network security|mobile security|1
+network security|network|-2
+network security|network structure|0
+network security|network reliability|0
+network security|network mobility|0
+security protocol|mobile security|0
+security protocol|network|-3
+mobile security|network|-3
+database security|software security|0
+database security|dam|1
+network|network architecture|1
+network|layering|3
+network|network protocol|1
+network|formal specification|3
+network|routing protocol|3
+network|transport protocol|2
+network|http|2
+network|router|3
+network|end-nodes|2
+network|wap|2
+network|domain|3
+network|packet classification|3
+network|deep packet inspection|3
+network|packet scheduling|3
+network|network performance|1
+network|network simulation|2
+network|local area network|3
+network|man|3
+network|wan|3
+network|network structure|2
+network|network reliability|2
+network|network mobility|2
+network|cloud computing|2
+network|location based service|2
+network|network management|2
+network|network monitoring|2
+network|network on chip|2
+network|home network|2
+network|san|2
+network|data center network|2
+network|mobile network|2
+network|overlay network|2
+network|peer-to-peer network|3
+network|smn|3
+network|wireless network|2
+network|hcc|0
+network|computer application|0
+network|ad hoc network|2
+network|hardware|0
+network|internetwork|2
+network|software|0
+network|cognitive radio|3
+network|fddi|5
+network|mesh network|4
+network|hybrid network|4
+network|nfs|2
+network|nic|3
+network|repeater|3
+network|network server|3
+network|wireless local area network|3
+network|wpan|3
+network|wireless mesh network|5
+network|mobile ad hoc network|3
+network|network measurement|2
+network|online social network|3
+network architecture|layering|2
+network architecture|network protocol|0
+network architecture|network performance|0
+network protocol|formal specification|2
+network protocol|routing protocol|2
+network protocol|transport protocol|1
+network protocol|http|1
+network protocol|network performance|0
+network protocol|nfs|1
+transport protocol|http|0
+transport protocol|nfs|0
+http|nfs|0
+end-nodes|wap|0
+end-nodes|nic|1
+end-nodes|network server|1
+wap|cognitive radio|1
+packet classification|deep packet inspection|0
+packet classification|packet scheduling|0
+deep packet inspection|packet scheduling|0
+network performance|network simulation|1
+network performance|network measurement|1
+network simulation|network measurement|0
+local area network|man|0
+local area network|wan|0
+man|wan|0
+network structure|network reliability|0
+network structure|network mobility|0
+network structure|fddi|3
+network structure|mesh network|2
+network structure|hybrid network|2
+network structure|wireless mesh network|3
+network reliability|network mobility|0
+cloud computing|location based service|0
+cloud computing|network management|0
+cloud computing|network monitoring|0
+location based service|network management|0
+location based service|network monitoring|0
+network management|network monitoring|0
+network on chip|home network|0
+network on chip|san|0
+network on chip|data center network|0
+network on chip|mobile network|0
+network on chip|overlay network|0
+network on chip|wireless network|0
+network on chip|ad hoc network|0
+network on chip|internetwork|0
+home network|san|0
+home network|data center network|0
+home network|mobile network|0
+home network|overlay network|0
+home network|wireless network|0
+home network|ad hoc network|0
+home network|internetwork|0
+san|data center network|0
+san|mobile network|0
+san|overlay network|0
+san|wireless network|0
+san|ad hoc network|0
+san|internetwork|0
+data center network|mobile network|0
+data center network|overlay network|0
+data center network|wireless network|0
+data center network|ad hoc network|0
+data center network|internetwork|0
+mobile network|overlay network|0
+mobile network|wireless network|0
+mobile network|ad hoc network|0
+mobile network|internetwork|0
+overlay network|peer-to-peer network|1
+overlay network|smn|1
+overlay network|wireless network|0
+overlay network|ad hoc network|0
+overlay network|internetwork|0
+overlay network|online social network|1
+peer-to-peer network|smn|0
+peer-to-peer network|online social network|0
+smn|online social network|0
+wireless network|ad hoc network|0
+wireless network|internetwork|0
+wireless network|wireless local area network|1
+wireless network|wpan|1
+hcc|human-computer interaction|1
+hcc|interaction design|1
+hcc|social computing|1
+hcc|visualization|1
+hcc|ccc|3
+hcc|hypertext|3
+hcc|social recommendation|3
+hcc|social network|3
+hcc|social network analysis|3
+hcc|user model|3
+hcc|user study|3
+hcc|visual analytics|3
+hcc|augmented reality|3
+hcc|computer application|0
+hcc|hardware|0
+hcc|usability|3
+hcc|user interface design|3
+hcc|user-centered design|3
+hcc|cli|3
+hcc|graphical user interface|3
+hcc|virtual reality|3
+hcc|keyboard|3
+hcc|treemaps|3
+hcc|hypertree|3
+hcc|graph drawing|3
+hcc|dendrograms|3
+hcc|smartphones|3
+hcc|iwb|3
+hcc|mobile phone|3
+hcc|mobile device|3
+hcc|pmp|3
+hcc|pda|3
+hcc|e-book|3
+hcc|tablet|3
+hcc|ubiquitous computing|3
+hcc|mobile computing|3
+hcc|ambient intelligence|3
+hcc|cooperative design|3
+hcc|information visualization|3
+hcc|software|0
+hcc|touch screen|3
+hcc|wireframes|3
+hcc|accessibility|1
+hcc|haptic device|3
+hcc|typing|3
+hcc|pointing|3
+hcc|social medium|3
+human-computer interaction|interaction design|0
+human-computer interaction|social computing|0
+human-computer interaction|visualization|0
+human-computer interaction|hypertext|2
+human-computer interaction|user model|2
+human-computer interaction|user study|2
+human-computer interaction|augmented reality|2
+human-computer interaction|usability|2
+human-computer interaction|cli|2
+human-computer interaction|graphical user interface|2
+human-computer interaction|virtual reality|2
+human-computer interaction|keyboard|2
+human-computer interaction|touch screen|2
+human-computer interaction|accessibility|0
+human-computer interaction|haptic device|2
+human-computer interaction|typing|2
+human-computer interaction|pointing|2
+interaction design|social computing|0
+interaction design|visualization|0
+interaction design|user interface design|2
+interaction design|user-centered design|2
+interaction design|cooperative design|2
+interaction design|wireframes|2
+interaction design|accessibility|0
+social computing|visualization|0
+social computing|ccc|2
+social computing|social recommendation|2
+social computing|social network|2
+social computing|social network analysis|2
+social computing|accessibility|0
+social computing|social medium|2
+visualization|visual analytics|2
+visualization|treemaps|2
+visualization|hypertree|2
+visualization|graph drawing|2
+visualization|dendrograms|2
+visualization|information visualization|2
+visualization|accessibility|0
+catalog|b-trees|1
+mirroring|raid|0
+da|na|0
+cloud storage|distributed storage|0
+deduplication|etl|0
+deduplication|data exchange|0
+deduplication|information integration|-1
+deduplication|wrapper|0
+buffer management|view|0
+query language|information integration|0
+query language|xpath|2
+query language|xquery|2
+query language|sql|2
+adt|programming language|-3
+adt|software|-4
+adt|polymorphism|0
+adt|inheritance|0
+adt|class|0
+adt|module|0
+adt|constraint|0
+adt|recursion|0
+adt|procedure|0
+adt|pattern|0
+adt|framework|0
+data stream|lineage|0
+data stream|incomplete data|0
+data stream|temporal database|0
+data stream|extension|-1
+data stream|uncertainty|0
+etl|data exchange|0
+etl|information integration|-1
+etl|wrapper|0
+data exchange|information integration|-1
+data exchange|wrapper|0
+data cleaning|data mining|-1
+data cleaning|association rule|0
+data cleaning|clustering|0
+data cleaning|similarity search|0
+data cleaning|data stream mining|0
+information integration|wrapper|1
+enterprise information system|intranet|1
+enterprise information system|extranet|1
+enterprise information system|enterprise resource planning|1
+enterprise information system|decision support system|0
+enterprise information system|data mining|0
+enterprise information system|digital archive|0
+enterprise information system|data center|1
+enterprise information system|platform|0
+intranet|extranet|0
+intranet|enterprise resource planning|0
+intranet|data center|0
+extranet|enterprise resource planning|0
+extranet|data center|0
+enterprise resource planning|data center|0
+ccc|social recommendation|0
+ccc|social network|0
+ccc|social medium|0
+geographic information system|sensor network|0
+geographic information system|global positioning system|0
+sensor network|global positioning system|0
+decision support system|data warehouse|1
+decision support system|expert system|1
+decision support system|data analysis|1
+decision support system|data mining|0
+decision support system|digital archive|0
+decision support system|olap|1
+decision support system|platform|0
+data warehouse|expert system|0
+data warehouse|data analysis|0
+data warehouse|olap|0
+expert system|data analysis|0
+expert system|olap|0
+data analysis|olap|0
+digital signal processing|beamforming|0
+digital signal processing|noise reduction|0
+digital signal processing|hardware|-3
+beamforming|noise reduction|0
+beamforming|hardware|-3
+noise reduction|hardware|-3
+multimedia database|multimedia streaming|0
+multimedia database|mmog|0
+hypertext|augmented reality|0
+hypertext|cli|0
+hypertext|graphical user interface|0
+hypertext|virtual reality|0
+multimedia streaming|mmog|0
+supply chain management|computer application|-3
+world wide web|crawling|3
+world wide web|spam detection|3
+world wide web|collaborative filtering|2
+world wide web|personalization|2
+world wide web|online advertising|1
+world wide web|sponsored search|2
+world wide web|viral marketing|2
+world wide web|web mining|1
+world wide web|data extraction|2
+world wide web|traffic analysis|2
+world wide web|web application|1
+world wide web|email|3
+world wide web|blog|3
+world wide web|texting|3
+world wide web|chat|3
+world wide web|webcast|3
+world wide web|crowdsourcing|2
+world wide web|trust|3
+world wide web|incentive mechanism|3
+world wide web|browser|2
+world wide web|mashups|2
+world wide web|web service|1
+world wide web|soap|2
+world wide web|rest|2
+world wide web|wsdl|2
+world wide web|uddi|2
+world wide web|rdf|3
+world wide web|owl|3
+world wide web|information retrieval|0
+world wide web|social tagging|2
+world wide web|electronic commerce|2
+world wide web|e-money|3
+world wide web|edi|3
+world wide web|electronic payment|3
+world wide web|online shopping|3
+world wide web|e-banking|3
+world wide web|online auction|3
+world wide web|deep web|3
+world wide web|surfacing|3
+world wide web|web service discovery|2
+crawling|spam detection|0
+ranking|machine learning|-3
+ranking|supervised learning|-1
+ranking|cost-sensitive learning|0
+collaborative filtering|personalization|0
+collaborative filtering|social tagging|0
+social recommendation|social network|0
+social recommendation|social medium|0
+personalization|social tagging|0
+online advertising|sponsored search|1
+online advertising|viral marketing|1
+online advertising|web mining|0
+online advertising|web application|0
+online advertising|web service|0
+sponsored search|viral marketing|0
+web mining|data extraction|1
+web mining|traffic analysis|1
+web mining|web application|0
+web mining|web service|0
+web mining|deep web|2
+web mining|surfacing|2
+data extraction|traffic analysis|0
+data extraction|deep web|1
+data extraction|surfacing|1
+web application|email|2
+web application|blog|2
+web application|texting|2
+web application|chat|2
+web application|webcast|2
+web application|crowdsourcing|1
+web application|trust|2
+web application|incentive mechanism|2
+web application|web service|0
+web application|electronic commerce|1
+web application|e-money|2
+web application|edi|2
+web application|electronic payment|2
+web application|online shopping|2
+web application|e-banking|2
+web application|online auction|2
+email|blog|0
+email|texting|0
+email|chat|0
+email|webcast|0
+blog|texting|0
+blog|chat|0
+blog|webcast|0
+texting|chat|0
+texting|webcast|0
+chat|webcast|0
+social network|social medium|0
+crowdsourcing|trust|1
+crowdsourcing|incentive mechanism|1
+crowdsourcing|electronic commerce|0
+trust|incentive mechanism|0
+wikis|reputation system|0
+wikis|open source software|0
+wikis|social networking site|0
+browser|mashups|0
+web service|soap|1
+web service|rest|1
+web service|wsdl|1
+web service|uddi|1
+web service|web service discovery|1
+soap|rest|0
+soap|wsdl|0
+soap|uddi|0
+soap|web service discovery|0
+rest|wsdl|0
+rest|uddi|0
+rest|web service discovery|0
+wsdl|uddi|0
+wsdl|web service discovery|0
+uddi|web service discovery|0
+extensible markup language|computer application|-4
+xpath|xquery|0
+rdf|owl|0
+information retrieval|topic model|2
+information retrieval|content analysis|2
+information retrieval|query suggestion|2
+information retrieval|language model|2
+information retrieval|similarity measure|2
+information retrieval|learning to rank|2
+information retrieval|question answering|2
+information retrieval|recommender system|2
+information retrieval|information extraction|2
+information retrieval|sentiment analysis|2
+information retrieval|expert finding|2
+information retrieval|document clustering|2
+information retrieval|summarization|2
+information retrieval|image search|3
+information retrieval|video search|3
+information retrieval|music information retrieval|3
+information retrieval|novelty|2
+information retrieval|cocitation|2
+information retrieval|web search|3
+information retrieval|ontology|2
+information retrieval|dictionary|2
+information retrieval|thesaurus|2
+information retrieval|business intelligence|2
+topic model|content analysis|0
+topic model|ontology|0
+topic model|dictionary|0
+topic model|thesaurus|0
+content analysis|ontology|0
+content analysis|dictionary|0
+content analysis|thesaurus|0
+user model|user study|0
+user model|usability|0
+user study|usability|0
+language model|similarity measure|0
+language model|learning to rank|0
+language model|novelty|0
+similarity measure|learning to rank|0
+similarity measure|novelty|0
+learning to rank|novelty|0
+question answering|recommender system|0
+question answering|information extraction|0
+question answering|sentiment analysis|0
+question answering|expert finding|0
+question answering|document clustering|0
+question answering|summarization|0
+question answering|business intelligence|0
+recommender system|information extraction|0
+recommender system|sentiment analysis|0
+recommender system|expert finding|0
+recommender system|document clustering|0
+recommender system|summarization|0
+recommender system|business intelligence|0
+data mining|digital archive|0
+data mining|association rule|1
+data mining|clustering|1
+data mining|similarity search|1
+data mining|data stream mining|1
+data mining|platform|0
+information extraction|sentiment analysis|0
+information extraction|expert finding|0
+information extraction|document clustering|0
+information extraction|summarization|0
+information extraction|business intelligence|0
+sentiment analysis|expert finding|0
+sentiment analysis|document clustering|0
+sentiment analysis|summarization|0
+sentiment analysis|business intelligence|0
+expert finding|document clustering|0
+expert finding|summarization|0
+expert finding|business intelligence|0
+document clustering|summarization|0
+document clustering|business intelligence|0
+summarization|business intelligence|0
+image search|video search|0
+image search|music information retrieval|0
+video search|music information retrieval|0
+digital archive|platform|0
+application server|bpm|0
+heap|linked-list|0
+locking|logging|0
+association rule|clustering|0
+association rule|similarity search|0
+association rule|data stream mining|0
+clustering|similarity search|0
+clustering|data stream mining|0
+similarity search|data stream mining|0
+reputation system|open source software|0
+reputation system|social networking site|0
+flash memory|phase change memory|0
+biometrics|tfa|0
+electronic commerce|e-money|1
+electronic commerce|edi|1
+electronic commerce|electronic payment|1
+electronic commerce|online shopping|1
+electronic commerce|e-banking|1
+electronic commerce|online auction|1
+e-money|edi|0
+e-money|electronic payment|0
+e-money|online shopping|0
+e-money|e-banking|0
+e-money|online auction|0
+edi|electronic payment|0
+edi|online shopping|0
+edi|e-banking|0
+edi|online auction|0
+electronic payment|online shopping|0
+electronic payment|e-banking|0
+electronic payment|online auction|0
+online shopping|e-banking|0
+online shopping|online auction|0
+e-banking|online auction|0
+open source software|social networking site|0
+lineage|incomplete data|0
+lineage|temporal database|0
+lineage|extension|-1
+lineage|uncertainty|0
+combinatorics|combinatorial problem|1
+combinatorics|generating function|1
+combinatorics|combinatorial optimization|1
+combinatorics|enumeration|1
+combinatorics|graph theory|0
+combinatorial problem|generating function|0
+combinatorial problem|combinatorial optimization|0
+combinatorial problem|enumeration|0
+generating function|combinatorial optimization|0
+generating function|enumeration|0
+combinatorial optimization|enumeration|0
+graph theory|tree|1
+graph theory|hypergraphs|1
+graph theory|random graph|1
+graph theory|graph coloring|1
+graph theory|network flow|1
+graph theory|matroids|1
+graph theory|graph algorithm|1
+graph theory|approximation algorithm|1
+tree|hypergraphs|0
+tree|random graph|0
+tree|graph coloring|0
+tree|network flow|0
+tree|matroids|0
+tree|graph algorithm|0
+tree|approximation algorithm|0
+hypergraphs|random graph|0
+hypergraphs|graph coloring|0
+hypergraphs|network flow|0
+hypergraphs|matroids|0
+hypergraphs|graph algorithm|0
+hypergraphs|approximation algorithm|0
+random graph|graph coloring|0
+random graph|network flow|0
+random graph|matroids|0
+random graph|graph algorithm|0
+random graph|approximation algorithm|0
+graph coloring|network flow|0
+graph coloring|matroids|0
+graph coloring|graph algorithm|0
+graph coloring|approximation algorithm|0
+network flow|matroids|0
+network flow|graph algorithm|0
+network flow|approximation algorithm|0
+matroids|graph algorithm|0
+matroids|approximation algorithm|0
+bayesian network|markov network|0
+bayesian network|factor graph|0
+bayesian network|stochastic differential equation|0
+markov network|factor graph|0
+markov network|stochastic differential equation|0
+factor graph|stochastic differential equation|0
+maximum likelihood estimation|mpe|0
+maximum likelihood estimation|hypothesis testing|0
+maximum likelihood estimation|density estimation|0
+mpe|hypothesis testing|0
+mpe|density estimation|0
+hypothesis testing|density estimation|0
+density estimation|quantile regression|1
+ve|variational method|0
+ve|expectation maximization|0
+ve|particle filter|0
+ve|kalman filter|0
+variational method|expectation maximization|0
+variational method|particle filter|0
+variational method|kalman filter|0
+expectation maximization|particle filter|0
+expectation maximization|kalman filter|0
+gibbs sampling|simulated annealing|0
+particle filter|kalman filter|0
+queueing theory|regression analysis|0
+queueing theory|time series analysis|0
+queueing theory|survival analysis|0
+queueing theory|dimensionality reduction|0
+queueing theory|cluster analysis|0
+queueing theory|eda|0
+regression analysis|time series analysis|0
+regression analysis|survival analysis|0
+regression analysis|dimensionality reduction|0
+regression analysis|cluster analysis|0
+regression analysis|eda|0
+time series analysis|survival analysis|0
+time series analysis|dimensionality reduction|0
+time series analysis|cluster analysis|0
+time series analysis|eda|0
+survival analysis|dimensionality reduction|0
+survival analysis|cluster analysis|0
+survival analysis|eda|0
+dimensionality reduction|cluster analysis|0
+dimensionality reduction|eda|0
+cluster analysis|eda|0
+stochastic process|markov process|1
+stochastic process|probability density function|0
+numerical analysis|mathematical programming|0
+numerical analysis|fast fourier transform|1
+numerical analysis|interpolation|1
+numerical analysis|interval arithmetic|1
+numerical analysis|differential equation|0
+numerical analysis|calculus|0
+numerical analysis|integral equation|0
+numerical analysis|nonlinear equation|0
+numerical analysis|quadrature|0
+numerical analysis|ad|1
+numerical analysis|mesh generation|1
+numerical analysis|discretization|1
+mathematical programming|differential equation|0
+mathematical programming|calculus|0
+mathematical programming|integral equation|0
+mathematical programming|nonlinear equation|0
+mathematical programming|quadrature|0
+mathematical programming|linear programming|2
+mathematical programming|semidefinite programming|2
+mathematical programming|convex optimization|2
+mathematical programming|unimodality|2
+mathematical programming|integer programming|2
+mathematical programming|stochastic control|2
+mathematical programming|discrete optimization|1
+mathematical programming|network optimization|2
+mathematical programming|continuous optimization|1
+mathematical programming|quadratic programming|2
+mathematical programming|nonconvex optimization|2
+fast fourier transform|interpolation|0
+fast fourier transform|interval arithmetic|0
+fast fourier transform|ad|0
+fast fourier transform|mesh generation|0
+fast fourier transform|discretization|0
+interpolation|interval arithmetic|0
+interpolation|ad|0
+interpolation|mesh generation|0
+interpolation|discretization|0
+interval arithmetic|ad|0
+interval arithmetic|mesh generation|0
+interval arithmetic|discretization|0
+differential equation|ordinary differential equation|1
+differential equation|partial differential equation|1
+differential equation|dae|1
+differential equation|dvi|1
+differential equation|calculus|0
+differential equation|integral equation|0
+differential equation|nonlinear equation|0
+differential equation|quadrature|0
+ordinary differential equation|partial differential equation|0
+ordinary differential equation|dae|0
+ordinary differential equation|dvi|0
+partial differential equation|dae|0
+partial differential equation|dvi|0
+dae|dvi|0
+calculus|integral equation|0
+calculus|nonlinear equation|0
+calculus|quadrature|0
+λ-calculus|computational model|-2
+λ-calculus|computability|-1
+integral equation|nonlinear equation|0
+integral equation|quadrature|0
+nonlinear equation|quadrature|0
+ad|mesh generation|0
+ad|discretization|0
+mesh generation|discretization|0
+computational model|computability|1
+computational model|concurrency|1
+computational model|process calculus|2
+computational model|logic|0
+computational model|automaton|1
+computability|concurrency|0
+computability|automaton|0
+concurrency|process calculus|1
+concurrency|automaton|0
+decision tree|cryptographic protocol|0
+logic|modal logic|1
+logic|automated reasoning|1
+logic|constraint programming|1
+logic|constructivism|1
+logic|description logic|1
+logic|fmt|1
+model checking|software|-3
+model checking|formal method|-1
+model checking|formal verification|0
+model checking|dynamic analysis|0
+model checking|software|-4
+modal logic|automated reasoning|0
+modal logic|constraint programming|0
+modal logic|constructivism|0
+modal logic|description logic|0
+modal logic|fmt|0
+automated reasoning|constraint programming|0
+automated reasoning|constructivism|0
+automated reasoning|description logic|0
+automated reasoning|fmt|0
+constraint programming|constructivism|0
+constraint programming|description logic|0
+constraint programming|fmt|0
+constructivism|description logic|0
+constructivism|fmt|0
+description logic|fmt|0
+scheduling algorithm|online algorithm|-2
+facility location|stochastic approximation|0
+self-organization|parallel algorithm|-1
+pattern matching|search algorithm|0
+pattern matching|lower bound|0
+search algorithm|lower bound|0
+sparsification|shortest path|0
+linear programming|semidefinite programming|0
+linear programming|convex optimization|0
+linear programming|unimodality|0
+linear programming|stochastic control|0
+linear programming|continuous optimization|-1
+linear programming|quadratic programming|0
+linear programming|nonconvex optimization|0
+semidefinite programming|convex optimization|0
+semidefinite programming|unimodality|0
+semidefinite programming|stochastic control|0
+semidefinite programming|continuous optimization|-1
+semidefinite programming|quadratic programming|0
+semidefinite programming|nonconvex optimization|0
+convex optimization|unimodality|0
+convex optimization|stochastic control|0
+convex optimization|continuous optimization|-1
+convex optimization|quadratic programming|0
+convex optimization|nonconvex optimization|0
+unimodality|stochastic control|0
+unimodality|continuous optimization|-1
+unimodality|quadratic programming|0
+unimodality|nonconvex optimization|0
+stochastic control|continuous optimization|-1
+stochastic control|quadratic programming|0
+stochastic control|nonconvex optimization|0
+online algorithm|distributed algorithm|0
+online algorithm|algorithm design|0
+pseudorandomness|computational geometry|0
+pseudorandomness|random walk|0
+pseudorandomness|extractor|0
+pseudorandomness|error-correcting code|0
+pseudorandomness|random projection|0
+computational geometry|random walk|0
+computational geometry|extractor|0
+computational geometry|error-correcting code|0
+computational geometry|random projection|0
+random walk|extractor|0
+random walk|error-correcting code|0
+random walk|random projection|0
+extractor|error-correcting code|0
+extractor|random projection|0
+error-correcting code|random projection|0
+kernel method|bayesian analysis|0
+kernel method|active learning|0
+kernel method|semi-supervised learning|0
+kernel method|support vector machine|1
+kernel method|gaussian process|1
+boosting|machine learning|-3
+boosting|ensemble learning|-1
+boosting|bagging|0
+bayesian analysis|active learning|0
+bayesian analysis|semi-supervised learning|0
+computational biology|biological network|1
+computational biology|genomics|0
+computational biology|system biology|0
+computational biology|imaging|1
+computational biology|computer application|-2
+computational biology|bioinformatics|0
+computational biology|metabolomics|0
+computational biology|genetics|0
+biological network|imaging|0
+biological network|computer application|-3
+genomics|system biology|0
+genomics|computer application|-2
+genomics|bioinformatics|0
+genomics|metabolomics|0
+genomics|genetics|0
+system biology|computer application|-2
+system biology|bioinformatics|0
+system biology|metabolomics|0
+system biology|genetics|0
+imaging|computer application|-3
+data modeling|data integration|0
+interoperability|software|-2
+interoperability|software reliability|0
+interoperability|software|-3
+incomplete data|temporal database|0
+incomplete data|extension|-1
+incomplete data|uncertainty|0
+invariant|precondition|0
+invariant|program verification|0
+invariant|program analysis|0
+invariant|assertion|0
+invariant|parsing|0
+invariant|abstraction|0
+precondition|program verification|0
+precondition|program analysis|0
+precondition|assertion|0
+precondition|parsing|0
+precondition|abstraction|0
+program verification|program analysis|0
+program verification|assertion|0
+program verification|parsing|0
+program verification|abstraction|0
+program analysis|assertion|0
+program analysis|parsing|0
+program analysis|abstraction|0
+assertion|parsing|0
+assertion|abstraction|0
+parsing|abstraction|0
+symbolic computation|optimization algorithm|2
+symbolic computation|ca|1
+symbolic computation|artificial intelligence|0
+symbolic computation|machine learning|0
+symbolic computation|modeling and simulation|0
+symbolic computation|computer graphic|0
+symbolic computation|distributed computing|0
+distributed algorithm|algorithm design|0
+artificial intelligence|natural language processing|1
+artificial intelligence|machine translation|2
+artificial intelligence|pragmatic|2
+artificial intelligence|nlg|2
+artificial intelligence|speech recognition|2
+artificial intelligence|phonology|2
+artificial intelligence|knowledge representation|1
+artificial intelligence|semantic network|2
+artificial intelligence|belief revision|2
+artificial intelligence|vagueness|2
+artificial intelligence|temporal logic|2
+artificial intelligence|logic programming|2
+artificial intelligence|spatial reasoning|2
+artificial intelligence|heuristic search|2
+artificial intelligence|control method|1
+artificial intelligence|control theory|2
+artificial intelligence|motion planning|2
+artificial intelligence|dai|1
+artificial intelligence|multi-agent system|2
+artificial intelligence|intelligent agent|2
+artificial intelligence|mobile agent|2
+artificial intelligence|computer vision|1
+artificial intelligence|image acquisition|2
+artificial intelligence|activity recognition|3
+artificial intelligence|video summarization|3
+artificial intelligence|robot vision|3
+artificial intelligence|camera calibration|3
+artificial intelligence|epipolar geometry|3
+artificial intelligence|hyperspectral imaging|3
+artificial intelligence|motion capture|3
+artificial intelligence|3d imaging|3
+artificial intelligence|image representation|3
+artificial intelligence|shape representation|3
+artificial intelligence|saliency detection|3
+artificial intelligence|image segmentation|3
+artificial intelligence|video segmentation|3
+artificial intelligence|object detection|3
+artificial intelligence|object recognition|3
+artificial intelligence|tracking|3
+artificial intelligence|reconstruction|3
+artificial intelligence|matching|3
+artificial intelligence|active vision|3
+artificial intelligence|machine learning|0
+artificial intelligence|modeling and simulation|0
+artificial intelligence|computer graphic|0
+artificial intelligence|distributed computing|0
+natural language processing|machine translation|1
+natural language processing|pragmatic|1
+natural language processing|nlg|1
+natural language processing|speech recognition|1
+natural language processing|phonology|1
+natural language processing|knowledge representation|0
+natural language processing|control method|0
+natural language processing|dai|0
+natural language processing|computer vision|0
+machine translation|pragmatic|0
+machine translation|nlg|0
+machine translation|speech recognition|0
+machine translation|phonology|0
+pragmatic|nlg|0
+pragmatic|speech recognition|0
+pragmatic|phonology|0
+nlg|speech recognition|0
+nlg|phonology|0
+speech recognition|phonology|0
+knowledge representation|semantic network|1
+knowledge representation|belief revision|1
+knowledge representation|vagueness|1
+knowledge representation|temporal logic|1
+knowledge representation|logic programming|1
+knowledge representation|spatial reasoning|1
+knowledge representation|control method|0
+knowledge representation|dai|0
+knowledge representation|computer vision|0
+semantic network|belief revision|0
+semantic network|vagueness|0
+semantic network|temporal logic|0
+semantic network|logic programming|0
+semantic network|spatial reasoning|0
+belief revision|vagueness|0
+belief revision|temporal logic|0
+belief revision|logic programming|0
+belief revision|spatial reasoning|0
+vagueness|temporal logic|0
+vagueness|logic programming|0
+vagueness|spatial reasoning|0
+temporal logic|logic programming|0
+temporal logic|spatial reasoning|0
+logic programming|spatial reasoning|0
+control method|control theory|1
+control method|motion planning|1
+control method|dai|0
+control method|computer vision|0
+control theory|motion planning|0
+dai|multi-agent system|1
+dai|intelligent agent|1
+dai|mobile agent|1
+dai|computer vision|0
+multi-agent system|intelligent agent|0
+multi-agent system|mobile agent|0
+intelligent agent|mobile agent|0
+computer vision|image acquisition|1
+computer vision|activity recognition|2
+computer vision|video summarization|2
+computer vision|robot vision|2
+computer vision|camera calibration|2
+computer vision|epipolar geometry|2
+computer vision|hyperspectral imaging|2
+computer vision|motion capture|2
+computer vision|3d imaging|2
+computer vision|image representation|2
+computer vision|shape representation|2
+computer vision|saliency detection|2
+computer vision|image segmentation|2
+computer vision|video segmentation|2
+computer vision|object detection|2
+computer vision|object recognition|2
+computer vision|tracking|2
+computer vision|reconstruction|2
+computer vision|matching|2
+computer vision|active vision|2
+image acquisition|camera calibration|1
+image acquisition|epipolar geometry|1
+image acquisition|hyperspectral imaging|1
+image acquisition|motion capture|1
+image acquisition|3d imaging|1
+image acquisition|active vision|1
+activity recognition|video summarization|0
+activity recognition|robot vision|0
+anomaly detection|machine learning|-3
+anomaly detection|unsupervised learning|-1
+anomaly detection|topic modeling|0
+video summarization|robot vision|0
+camera calibration|epipolar geometry|0
+camera calibration|hyperspectral imaging|0
+camera calibration|motion capture|0
+camera calibration|3d imaging|0
+camera calibration|active vision|0
+epipolar geometry|hyperspectral imaging|0
+epipolar geometry|motion capture|0
+epipolar geometry|3d imaging|0
+epipolar geometry|active vision|0
+hyperspectral imaging|motion capture|0
+hyperspectral imaging|3d imaging|0
+hyperspectral imaging|active vision|0
+motion capture|3d imaging|0
+motion capture|active vision|0
+3d imaging|active vision|0
+image representation|shape representation|0
+saliency detection|image segmentation|0
+saliency detection|video segmentation|0
+saliency detection|object detection|0
+saliency detection|object recognition|0
+saliency detection|tracking|0
+saliency detection|reconstruction|0
+saliency detection|matching|0
+image segmentation|video segmentation|0
+image segmentation|object detection|0
+image segmentation|object recognition|0
+image segmentation|tracking|0
+image segmentation|reconstruction|0
+image segmentation|matching|0
+video segmentation|object detection|0
+video segmentation|object recognition|0
+video segmentation|tracking|0
+video segmentation|reconstruction|0
+video segmentation|matching|0
+object detection|object recognition|0
+object detection|tracking|0
+object detection|reconstruction|0
+object detection|matching|0
+object recognition|tracking|0
+object recognition|reconstruction|0
+object recognition|matching|0
+tracking|reconstruction|0
+tracking|matching|0
+reconstruction|matching|0
+machine learning|supervised learning|2
+machine learning|unsupervised learning|2
+machine learning|reinforcement learning|2
+machine learning|multi-task learning|2
+machine learning|cost-sensitive learning|3
+machine learning|topic modeling|3
+machine learning|transfer learning|3
+machine learning|srl|3
+machine learning|mixture model|3
+machine learning|non-negative matrix factorization|3
+machine learning|factor analysis|3
+machine learning|principal component analysis|3
+machine learning|canonical correlation analysis|3
+machine learning|markov decision process|2
+machine learning|pomdp|2
+machine learning|deep belief network|3
+machine learning|q-learning|3
+machine learning|policy iteration|3
+machine learning|approximate dynamic programming|3
+machine learning|ensemble learning|2
+machine learning|bagging|3
+machine learning|spectral method|2
+machine learning|feature selection|2
+machine learning|regularization|2
+machine learning|cross-validation|1
+machine learning|modeling and simulation|0
+machine learning|computer graphic|0
+machine learning|distributed computing|0
+machine learning|latent dirichlet allocation|3
+supervised learning|unsupervised learning|0
+supervised learning|reinforcement learning|0
+supervised learning|multi-task learning|0
+supervised learning|cost-sensitive learning|1
+unsupervised learning|reinforcement learning|0
+unsupervised learning|multi-task learning|0
+unsupervised learning|topic modeling|1
+reinforcement learning|multi-task learning|0
+multi-task learning|transfer learning|1
+active learning|semi-supervised learning|0
+neural network|architecture|-2
+neural network|reconfigurable computing|0
+neural network|heterogeneous system|0
+neural network|self-organizing network|0
+neural network|quantum computing|0
+support vector machine|gaussian process|0
+non-negative matrix factorization|factor analysis|0
+non-negative matrix factorization|principal component analysis|0
+non-negative matrix factorization|canonical correlation analysis|0
+non-negative matrix factorization|latent dirichlet allocation|0
+factor analysis|principal component analysis|0
+factor analysis|canonical correlation analysis|0
+factor analysis|latent dirichlet allocation|0
+principal component analysis|canonical correlation analysis|0
+principal component analysis|latent dirichlet allocation|0
+canonical correlation analysis|latent dirichlet allocation|0
+markov decision process|pomdp|0
+q-learning|policy iteration|0
+q-learning|approximate dynamic programming|0
+policy iteration|approximate dynamic programming|0
+ensemble learning|bagging|1
+ensemble learning|spectral method|0
+ensemble learning|feature selection|0
+ensemble learning|regularization|0
+spectral method|feature selection|0
+spectral method|regularization|0
+feature selection|regularization|0
+modeling and simulation|model analysis|1
+modeling and simulation|modeling method|2
+modeling and simulation|model validation|2
+modeling and simulation|uq|2
+modeling and simulation|system theory|2
+modeling and simulation|discrete event simulation|2
+modeling and simulation|distributed simulation|2
+modeling and simulation|real-time simulation|2
+modeling and simulation|data assimilation|2
+modeling and simulation|scientific visualization|2
+modeling and simulation|computer graphic|0
+modeling and simulation|distributed computing|0
+model analysis|modeling method|1
+model analysis|model validation|1
+model analysis|uq|1
+modeling method|model validation|0
+modeling method|uq|0
+model validation|uq|0
+animation|computer graphic|-1
+animation|rendering|0
+animation|physical simulation|1
+animation|collision detection|1
+animation|image compression|0
+discrete event simulation|distributed simulation|0
+discrete event simulation|real-time simulation|0
+discrete event simulation|data assimilation|0
+discrete event simulation|scientific visualization|0
+distributed simulation|real-time simulation|0
+distributed simulation|data assimilation|0
+distributed simulation|scientific visualization|0
+real-time simulation|data assimilation|0
+real-time simulation|scientific visualization|0
+data assimilation|scientific visualization|0
+visual analytics|information visualization|0
+computer graphic|rendering|1
+computer graphic|rasterization|2
+computer graphic|ray tracing|2
+computer graphic|non-photorealistic rendering|2
+computer graphic|visibility|2
+computer graphic|physical simulation|2
+computer graphic|collision detection|2
+computer graphic|image processing|2
+computer graphic|texturing|2
+computer graphic|image-based rendering|2
+computer graphic|antialiasing|2
+computer graphic|graphic processing unit|2
+computer graphic|gid|2
+computer graphic|perception|2
+computer graphic|image compression|1
+computer graphic|solid modeling|2
+computer graphic|surface modeling|2
+computer graphic|shape analysis|2
+computer graphic|distributed computing|0
+rendering|rasterization|1
+rendering|ray tracing|1
+rendering|non-photorealistic rendering|1
+rendering|visibility|1
+rendering|image compression|0
+rasterization|ray tracing|0
+rasterization|non-photorealistic rendering|0
+rasterization|visibility|0
+ray tracing|non-photorealistic rendering|0
+ray tracing|visibility|0
+non-photorealistic rendering|visibility|0
+physical simulation|collision detection|0
+image processing|texturing|0
+image processing|image-based rendering|0
+image processing|antialiasing|0
+texturing|image-based rendering|0
+texturing|antialiasing|0
+image-based rendering|antialiasing|0
+graphic processing unit|gid|0
+graphic processing unit|perception|0
+gid|perception|0
+augmented reality|cli|0
+augmented reality|graphical user interface|0
+augmented reality|virtual reality|0
+solid modeling|surface modeling|0
+solid modeling|shape analysis|0
+surface modeling|shape analysis|0
+computer application|eai|3
+computer application|business process management|2
+computer application|business process modeling|3
+computer application|service-oriented architecture|2
+computer application|business rule|2
+computer application|reference model|2
+computer application|it governance|2
+computer application|aerospace|2
+computer application|archaeology|2
+computer application|astronomy|2
+computer application|chemistry|2
+computer application|engineering|2
+computer application|computer-aided design|3
+computer application|physic|2
+computer application|mathematics|2
+computer application|electronics|2
+computer application|bioinformatics|2
+computer application|proteomics|3
+computer application|metabolomics|2
+computer application|transcriptomics|3
+computer application|anthropology|2
+computer application|ethnography|3
+computer application|law|2
+computer application|psychology|2
+computer application|economics|2
+computer application|sociology|2
+computer application|computer forensics|1
+computer application|data recovery|2
+computer application|publishing|2
+computer application|military|2
+computer application|cartography|2
+computer application|agriculture|2
+computer application|cam|2
+computer application|decision analysis|2
+computer application|transportation|2
+computer application|forecasting|2
+computer application|marketing|2
+computer application|education|1
+computer application|cai|2
+computer application|interactive learning environment|2
+computer application|collaborative learning|2
+computer application|learning management system|2
+computer application|distance learning|2
+computer application|e-learning|2
+computer application|cmi|2
+computer application|document management|2
+computer application|versioning|3
+computer application|document analysis|3
+computer application|optical character recognition|3
+computer application|handwriting recognition|3
+computer application|annotation|3
+computer application|multimedia|3
+computer application|image composition|3
+computer application|hardware|0
+computer application|genetics|2
+computer application|e-government|3
+computer application|telecommunication|2
+computer application|avionics|3
+computer application|software|0
+computer application|spreadsheet|3
+computer application|computer game|3
+computer application|microcomputer|3
+computer application|voice over ip|3
+business process management|business process modeling|1
+business process management|service-oriented architecture|0
+business process management|business rule|0
+business process management|reference model|0
+business process management|it governance|0
+service-oriented architecture|business rule|0
+service-oriented architecture|reference model|0
+service-oriented architecture|it governance|0
+business rule|reference model|0
+business rule|it governance|0
+reference model|it governance|0
+aerospace|archaeology|0
+aerospace|astronomy|0
+aerospace|chemistry|0
+aerospace|engineering|0
+aerospace|physic|0
+aerospace|mathematics|0
+aerospace|electronics|0
+aerospace|telecommunication|0
+archaeology|astronomy|0
+archaeology|chemistry|0
+archaeology|engineering|0
+archaeology|physic|0
+archaeology|mathematics|0
+archaeology|electronics|0
+archaeology|telecommunication|0
+astronomy|chemistry|0
+astronomy|engineering|0
+astronomy|physic|0
+astronomy|mathematics|0
+astronomy|electronics|0
+astronomy|telecommunication|0
+chemistry|engineering|0
+chemistry|physic|0
+chemistry|mathematics|0
+chemistry|electronics|0
+chemistry|telecommunication|0
+engineering|computer-aided design|1
+engineering|physic|0
+engineering|mathematics|0
+engineering|electronics|0
+engineering|telecommunication|0
+physic|mathematics|0
+physic|electronics|0
+physic|telecommunication|0
+mathematics|electronics|0
+mathematics|telecommunication|0
+electronics|telecommunication|0
+electronics|avionics|1
+bioinformatics|metabolomics|0
+bioinformatics|genetics|0
+proteomics|transcriptomics|0
+proteomics|genetics|-1
+metabolomics|genetics|0
+transcriptomics|genetics|-1
+anthropology|ethnography|1
+anthropology|law|0
+anthropology|psychology|0
+anthropology|economics|0
+anthropology|sociology|0
+law|psychology|0
+law|economics|0
+law|sociology|0
+psychology|economics|0
+psychology|sociology|0
+economics|sociology|0
+computer forensics|data recovery|1
+computer forensics|education|0
+publishing|military|0
+publishing|cartography|0
+publishing|agriculture|0
+military|cartography|0
+military|agriculture|0
+cartography|agriculture|0
+cam|decision analysis|0
+cam|transportation|0
+cam|forecasting|0
+cam|marketing|0
+decision analysis|transportation|0
+decision analysis|forecasting|0
+decision analysis|marketing|0
+transportation|forecasting|0
+transportation|marketing|0
+forecasting|marketing|0
+education|cai|1
+education|interactive learning environment|1
+education|collaborative learning|1
+education|learning management system|1
+education|distance learning|1
+education|e-learning|1
+education|cmi|1
+cai|interactive learning environment|0
+cai|collaborative learning|0
+cai|learning management system|0
+cai|distance learning|0
+cai|e-learning|0
+cai|cmi|0
+interactive learning environment|collaborative learning|0
+interactive learning environment|learning management system|0
+interactive learning environment|distance learning|0
+interactive learning environment|e-learning|0
+interactive learning environment|cmi|0
+collaborative learning|learning management system|0
+collaborative learning|distance learning|0
+collaborative learning|e-learning|0
+collaborative learning|cmi|0
+learning management system|distance learning|0
+learning management system|e-learning|0
+learning management system|cmi|0
+distance learning|e-learning|0
+distance learning|cmi|0
+e-learning|cmi|0
+document management|versioning|1
+document analysis|optical character recognition|0
+document analysis|handwriting recognition|0
+optical character recognition|handwriting recognition|0
+annotation|multimedia|0
+annotation|image composition|0
+multimedia|image composition|0
+temporal database|extension|-1
+temporal database|uncertainty|0
+architecture|risc|2
+architecture|cisc|2
+architecture|pipelining|2
+architecture|parallel architecture|1
+architecture|vliw|2
+architecture|mimd|2
+architecture|simd|2
+architecture|systolic array|2
+architecture|distributed architecture|1
+architecture|peer-to-peer system|2
+architecture|reconfigurable computing|2
+architecture|heterogeneous system|2
+architecture|self-organizing network|2
+architecture|quantum computing|2
+architecture|cyber-physical system|0
+architecture|real-time system|0
+risc|cisc|0
+risc|pipelining|0
+cisc|pipelining|0
+parallel architecture|vliw|1
+parallel architecture|mimd|1
+parallel architecture|simd|1
+parallel architecture|systolic array|1
+parallel architecture|distributed architecture|0
+vliw|mimd|0
+vliw|simd|0
+vliw|systolic array|0
+mimd|simd|0
+mimd|systolic array|0
+simd|systolic array|0
+distributed architecture|peer-to-peer system|1
+grid computing|software|-3
+grid computing|software|-4
+reconfigurable computing|heterogeneous system|0
+reconfigurable computing|self-organizing network|0
+reconfigurable computing|quantum computing|0
+heterogeneous system|self-organizing network|0
+heterogeneous system|quantum computing|0
+self-organizing network|quantum computing|0
+cyber-physical system|robotics|1
+cyber-physical system|autonomous robot|2
+cyber-physical system|sensor|1
+cyber-physical system|soc|1
+cyber-physical system|firmware|2
+cyber-physical system|embedded system|1
+cyber-physical system|embedded software|2
+cyber-physical system|real-time system|0
+robotics|autonomous robot|1
+robotics|sensor|0
+robotics|soc|0
+robotics|embedded system|0
+sensor|soc|0
+sensor|embedded system|0
+soc|embedded system|0
+firmware|embedded system|-1
+firmware|embedded software|0
+embedded system|embedded software|1
+reliability|availability|0
+ad hoc network|internetwork|0
+ad hoc network|mobile ad hoc network|1
+hardware|printed circuit board|1
+hardware|bus|2
+hardware|display|2
+hardware|printer|2
+hardware|sensor deployment|2
+hardware|integrated circuit|1
+hardware|3d ic|2
+hardware|interconnect|2
+hardware|parallel i/o|3
+hardware|optical interconnect|3
+hardware|memory|2
+hardware|dram|3
+hardware|sram|3
+hardware|non-volatile memory|3
+hardware|rom|3
+hardware|transistor|3
+hardware|asynchronous circuit|3
+hardware|finite state machine|3
+hardware|fpga|2
+hardware|accelerator|3
+hardware|ple|3
+hardware|vlsi design|1
+hardware|analog circuit|2
+hardware|data conversion|3
+hardware|asic|3
+hardware|asip|3
+hardware|design reuse|2
+hardware|mcm|3
+hardware|energy storage|2
+hardware|battery|3
+hardware|renewable energy|3
+hardware|energy distribution|2
+hardware|smart grid|3
+hardware|environmental impact|2
+hardware|power optimization|2
+hardware|temperature monitoring|3
+hardware|temperature control|3
+hardware|eda|1
+hardware|high-level synthesis|2
+hardware|resource sharing|3
+hardware|logic synthesis|2
+hardware|packaging|3
+hardware|partitioning|3
+hardware|placement|3
+hardware|timing analysis|2
+hardware|sta|3
+hardware|drc|3
+hardware|lvs|3
+hardware|thermal analysis|3
+hardware|dfd|3
+hardware|built-in self-test|3
+hardware|test data compression|3
+hardware|design for testability|2
+hardware|fault model|2
+hardware|atpg|2
+hardware|robustness|1
+hardware|fault tolerance|2
+hardware|error detection|3
+hardware|failure prediction|3
+hardware|failure recovery|3
+hardware|redundancy|3
+hardware|dfm|2
+hardware|process variation|3
+hardware|cost optimization|3
+hardware|signal integrity|3
+hardware|cellular neural network|3
+hardware|mem|3
+hardware|nems|3
+hardware|plasmonics|2
+hardware|spintronics|2
+hardware|software|0
+hardware|scanner|2
+hardware|win|2
+hardware|quantum computation|3
+hardware|quantum communication|4
+hardware|quantum dot|3
+printed circuit board|integrated circuit|0
+printed circuit board|vlsi design|0
+printed circuit board|eda|0
+printed circuit board|robustness|0
+bus|display|0
+bus|printer|0
+bus|sensor deployment|0
+bus|scanner|0
+bus|win|0
+display|printer|0
+display|sensor deployment|0
+display|scanner|0
+display|win|0
+printer|sensor deployment|0
+printer|scanner|0
+printer|win|0
+sensor deployment|scanner|0
+sensor deployment|win|0
+integrated circuit|3d ic|1
+integrated circuit|interconnect|1
+integrated circuit|parallel i/o|2
+integrated circuit|optical interconnect|2
+integrated circuit|memory|1
+integrated circuit|dram|2
+integrated circuit|sram|2
+integrated circuit|non-volatile memory|2
+integrated circuit|rom|2
+integrated circuit|transistor|2
+integrated circuit|asynchronous circuit|2
+integrated circuit|finite state machine|2
+integrated circuit|fpga|1
+integrated circuit|accelerator|2
+integrated circuit|ple|2
+integrated circuit|vlsi design|0
+integrated circuit|eda|0
+integrated circuit|robustness|0
+3d ic|interconnect|0
+3d ic|memory|0
+3d ic|fpga|0
+interconnect|parallel i/o|1
+interconnect|optical interconnect|1
+interconnect|memory|0
+interconnect|fpga|0
+parallel i/o|optical interconnect|0
+memory|dram|1
+memory|sram|1
+memory|non-volatile memory|1
+memory|rom|1
+memory|fpga|0
+dram|sram|0
+dram|non-volatile memory|0
+dram|rom|0
+sram|non-volatile memory|0
+sram|rom|0
+non-volatile memory|rom|0
+asynchronous circuit|finite state machine|0
+fpga|accelerator|1
+fpga|ple|1
+accelerator|ple|0
+vlsi design|analog circuit|1
+vlsi design|data conversion|2
+vlsi design|asic|2
+vlsi design|asip|2
+vlsi design|design reuse|1
+vlsi design|mcm|2
+vlsi design|eda|0
+vlsi design|robustness|0
+analog circuit|data conversion|1
+analog circuit|design reuse|0
+asic|asip|0
+energy storage|battery|1
+energy storage|renewable energy|1
+energy storage|energy distribution|0
+energy storage|environmental impact|0
+energy storage|power optimization|0
+battery|renewable energy|0
+energy distribution|smart grid|1
+energy distribution|environmental impact|0
+energy distribution|power optimization|0
+environmental impact|power optimization|0
+temperature monitoring|temperature control|0
+eda|high-level synthesis|1
+eda|resource sharing|2
+eda|logic synthesis|1
+eda|packaging|2
+eda|partitioning|2
+eda|placement|2
+eda|timing analysis|1
+eda|sta|2
+eda|robustness|0
+high-level synthesis|resource sharing|1
+high-level synthesis|logic synthesis|0
+high-level synthesis|timing analysis|0
+scheduling|software|-4
+scheduling|operating system|-2
+scheduling|process management|-1
+scheduling|multithreading|0
+scheduling|multi-processing|0
+scheduling|monitor|0
+scheduling|mutual exclusion|0
+scheduling|concurrency control|0
+scheduling|power management|0
+scheduling|software|-5
+logic synthesis|timing analysis|0
+packaging|partitioning|0
+packaging|placement|0
+partitioning|placement|0
+timing analysis|sta|1
+drc|lvs|0
+drc|thermal analysis|0
+lvs|thermal analysis|0
+built-in self-test|test data compression|0
+built-in self-test|design for testability|-1
+test data compression|design for testability|-1
+design for testability|fault model|0
+design for testability|atpg|0
+fault model|atpg|0
+robustness|fault tolerance|1
+robustness|error detection|2
+robustness|failure prediction|2
+robustness|failure recovery|2
+robustness|redundancy|2
+robustness|dfm|1
+robustness|process variation|2
+robustness|cost optimization|2
+robustness|signal integrity|2
+fault tolerance|error detection|1
+fault tolerance|failure prediction|1
+fault tolerance|failure recovery|1
+fault tolerance|redundancy|1
+fault tolerance|dfm|0
+error detection|failure prediction|0
+error detection|failure recovery|0
+error detection|redundancy|0
+failure prediction|failure recovery|0
+failure prediction|redundancy|0
+failure recovery|redundancy|0
+dfm|process variation|1
+dfm|cost optimization|1
+process variation|cost optimization|0
+mem|nems|0
+plasmonics|spintronics|0
+physical model|extension|0
+extension|uncertainty|1
+deep web|surfacing|0
+user interface design|user-centered design|0
+user interface design|cooperative design|0
+user-centered design|cooperative design|0
+cli|graphical user interface|0
+cli|virtual reality|0
+graphical user interface|virtual reality|0
+keyboard|touch screen|0
+keyboard|haptic device|0
+rad|software|-4
+rad|agile|0
+rad|cmm|0
+rad|v-model|0
+rad|design pattern|0
+treemaps|hypertree|0
+treemaps|graph drawing|0
+treemaps|dendrograms|0
+hypertree|graph drawing|0
+hypertree|dendrograms|0
+graph drawing|dendrograms|0
+smartphones|iwb|0
+smartphones|mobile phone|0
+smartphones|mobile device|0
+smartphones|pmp|0
+smartphones|pda|0
+smartphones|e-book|0
+smartphones|tablet|0
+iwb|mobile phone|0
+iwb|mobile device|0
+iwb|pmp|0
+iwb|pda|0
+iwb|e-book|0
+iwb|tablet|0
+mobile phone|mobile device|0
+mobile phone|pmp|0
+mobile phone|pda|0
+mobile phone|e-book|0
+mobile phone|tablet|0
+mobile device|pmp|0
+mobile device|pda|0
+mobile device|e-book|0
+mobile device|tablet|0
+pmp|pda|0
+pmp|e-book|0
+pmp|tablet|0
+pda|e-book|0
+pda|tablet|0
+e-book|tablet|0
+ubiquitous computing|mobile computing|0
+ubiquitous computing|ambient intelligence|0
+mobile computing|ambient intelligence|0
+documentation|software|-3
+documentation|backup|0
+documentation|software evolution|0
+graph algorithm|approximation algorithm|0
+software|interpreter|3
+software|middleware|3
+software|mom|4
+software|virtual machine|3
+software|operating system|2
+software|memory management|3
+software|garbage collection|4
+software|process management|3
+software|multithreading|4
+software|multi-processing|4
+software|monitor|4
+software|synchronization|3
+software|mutual exclusion|4
+software|concurrency control|4
+software|power management|4
+software|buffering|4
+software|message passing|4
+software|video game|3
+software|software architecture|2
+software|petri net|3
+software|feature interaction|3
+software|correctness|2
+software|functionality|3
+software|consistency|3
+software|completeness|3
+software|formal method|2
+software|formal verification|3
+software|dynamic analysis|3
+software|software reliability|2
+software|programming language|0
+software|software|-1
+software|checkpointing|3
+interpreter|middleware|0
+interpreter|virtual machine|0
+interpreter|software|-4
+middleware|mom|1
+middleware|virtual machine|0
+middleware|software|-4
+mom|software|-5
+virtual machine|software|-4
+operating system|memory management|1
+operating system|garbage collection|2
+operating system|process management|1
+operating system|multithreading|2
+operating system|multi-processing|2
+operating system|monitor|2
+operating system|mutual exclusion|2
+operating system|concurrency control|2
+operating system|power management|2
+operating system|buffering|2
+operating system|message passing|2
+operating system|software|-3
+memory management|garbage collection|1
+memory management|process management|0
+memory management|software|-4
+garbage collection|software|-5
+process management|multithreading|1
+process management|multi-processing|1
+process management|monitor|1
+process management|mutual exclusion|1
+process management|concurrency control|1
+process management|power management|1
+process management|software|-4
+multithreading|multi-processing|0
+multithreading|monitor|0
+multithreading|mutual exclusion|0
+multithreading|concurrency control|0
+multithreading|power management|0
+multithreading|software|-5
+multi-processing|monitor|0
+multi-processing|mutual exclusion|0
+multi-processing|concurrency control|0
+multi-processing|power management|0
+multi-processing|software|-5
+monitor|mutual exclusion|0
+monitor|concurrency control|0
+monitor|power management|0
+monitor|software|-5
+synchronization|correctness|-1
+synchronization|functionality|0
+synchronization|consistency|0
+synchronization|completeness|0
+synchronization|software|-4
+mutual exclusion|concurrency control|0
+mutual exclusion|power management|0
+mutual exclusion|software|-5
+concurrency control|power management|0
+concurrency control|software|-5
+power management|software|-5
+buffering|message passing|0
+buffering|software|-5
+message passing|software|-5
+video game|software|-4
+software architecture|software|-3
+petri net|feature interaction|0
+petri net|software|-4
+feature interaction|software|-4
+telecommunication|voice over ip|1
+correctness|functionality|1
+correctness|consistency|1
+correctness|completeness|1
+correctness|formal method|0
+correctness|software|-3
+functionality|consistency|0
+functionality|completeness|0
+functionality|software|-4
+consistency|completeness|0
+consistency|software|-4
+completeness|software|-4
+formal method|formal verification|1
+formal method|dynamic analysis|1
+formal method|software|-3
+formal verification|dynamic analysis|0
+formal verification|software|-4
+dynamic analysis|software|-4
+software reliability|software|-3
+programming language|software|-1
+programming language|polymorphism|3
+programming language|inheritance|3
+programming language|class|3
+programming language|module|3
+programming language|constraint|3
+programming language|recursion|3
+programming language|procedure|3
+programming language|pattern|3
+programming language|framework|3
+programming language|syntax|2
+programming language|compiler|1
+programming language|tws|2
+programming language|preprocessors|2
+programming language|idl|2
+programming language|unified modeling language|2
+programming language|architecture description language|2
+programming language|sysml|2
+programming language|semantics|2
+programming language|parser|2
+software|polymorphism|4
+software|inheritance|4
+software|class|4
+software|module|4
+software|constraint|4
+software|recursion|4
+software|procedure|4
+software|pattern|4
+software|framework|4
+software|syntax|3
+software|compiler|2
+software|tws|3
+software|preprocessors|3
+software|idl|3
+software|unified modeling language|3
+software|architecture description language|3
+software|sysml|3
+software|software design|2
+software|requirement analysis|3
+software|agile|4
+software|cmm|4
+software|v-model|4
+software|design pattern|4
+software|risk management|3
+software|object-oriented programming|3
+software|flowchart|3
+software|reusability|3
+software|software product line|4
+software|checkpointing|4
+software|software testing|4
+software|fault tree analysis|3
+software|walkthroughs|4
+software|use case|4
+software|traceability|4
+software|backup|3
+software|software evolution|3
+software|semantics|3
+software|parser|3
+software|error recovery|3
+polymorphism|inheritance|0
+polymorphism|class|0
+polymorphism|module|0
+polymorphism|constraint|0
+polymorphism|recursion|0
+polymorphism|procedure|0
+polymorphism|pattern|0
+polymorphism|framework|0
+inheritance|class|0
+inheritance|module|0
+inheritance|constraint|0
+inheritance|recursion|0
+inheritance|procedure|0
+inheritance|pattern|0
+inheritance|framework|0
+class|module|0
+class|constraint|0
+class|recursion|0
+class|procedure|0
+class|pattern|0
+class|framework|0
+module|constraint|0
+module|recursion|0
+module|procedure|0
+module|pattern|0
+module|framework|0
+constraint|recursion|0
+constraint|procedure|0
+constraint|pattern|0
+constraint|framework|0
+recursion|procedure|0
+recursion|pattern|0
+recursion|framework|0
+procedure|pattern|0
+procedure|framework|0
+pattern|framework|0
+syntax|semantics|0
+compiler|tws|1
+compiler|preprocessors|1
+compiler|parser|1
+tws|preprocessors|0
+tws|parser|0
+preprocessors|parser|0
+unified modeling language|architecture description language|0
+unified modeling language|sysml|0
+architecture description language|sysml|0
+software design|requirement analysis|1
+agile|cmm|0
+agile|v-model|0
+agile|design pattern|0
+cmm|v-model|0
+cmm|design pattern|0
+v-model|design pattern|0
+object-oriented programming|flowchart|0
+object-oriented programming|reusability|0
+object-oriented programming|error recovery|0
+flowchart|reusability|0
+flowchart|error recovery|0
+reusability|software product line|1
+reusability|error recovery|0
+walkthroughs|use case|0
+walkthroughs|traceability|0
+use case|traceability|0
+backup|software evolution|0
+discrete optimization|network optimization|1
+discrete optimization|continuous optimization|0
+continuous optimization|quadratic programming|1
+continuous optimization|nonconvex optimization|1
+quadratic programming|nonconvex optimization|0
+ontology|dictionary|0
+ontology|thesaurus|0
+dictionary|thesaurus|0
+spreadsheet|computer game|0
+spreadsheet|microcomputer|0
+computer game|microcomputer|0
+algorithm design|backtracking|1
+algorithm design|branch-and-bound|1
+algorithm design|divide and conquer|1
+algorithm design|dynamic programming|1
+algorithm design|preconditioning|1
+backtracking|branch-and-bound|0
+backtracking|divide and conquer|0
+backtracking|dynamic programming|0
+backtracking|preconditioning|0
+branch-and-bound|divide and conquer|0
+branch-and-bound|dynamic programming|0
+branch-and-bound|preconditioning|0
+divide and conquer|dynamic programming|0
+divide and conquer|preconditioning|0
+dynamic programming|preconditioning|0
+block cipher|hash function|0
+digital signature|public key encryption|0
+information flow control|do attack|0
+information flow control|firewall|0
+do attack|firewall|0
+spoofing|phishing|0
+mesh network|hybrid network|0
+mesh network|wireless mesh network|1
+nic|network server|0
+wireless local area network|wpan|0
+touch screen|haptic device|0
+scanner|win|0
+quantum computation|quantum communication|1
+quantum computation|quantum dot|0
+typing|pointing|0

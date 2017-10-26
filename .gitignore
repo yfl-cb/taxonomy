@@ -1,0 +1,7 @@
+nltk_data/
+archive/
+archive_2/
+data_archive/
+.idea/
+.DS_Store
+__pycache__/
