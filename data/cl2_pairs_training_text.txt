@@ -1,0 +1,506 @@
+information system|database|1
+information system|data model|2
+information system|data structure|2
+information system|data compression|4
+information system|data encryption|4
+information system|catalog|3
+information system|mirroring|3
+information system|raid|3
+information system|da|4
+information system|na|4
+information system|cloud storage|3
+information system|deduplication|3
+information system|buffer management|3
+information system|query language|2
+information system|view|3
+information system|data stream|4
+information system|query optimization|4
+information system|etl|3
+information system|data exchange|3
+information system|data cleaning|3
+information system|information integration|2
+information system|wrapper|3
+information system|enterprise information system|2
+information system|intranet|3
+information system|extranet|3
+information system|enterprise resource planning|3
+information system|geographic information system|3
+information system|sensor network|3
+information system|decision support system|2
+information system|data warehouse|3
+information system|expert system|3
+information system|data analysis|3
+information system|multimedia database|3
+information system|multimedia streaming|3
+information system|mmog|3
+information system|world wide web|1
+information system|crawling|4
+information system|spam detection|4
+information system|collaborative filtering|3
+information system|personalization|3
+information system|online advertising|2
+information system|sponsored search|3
+information system|viral marketing|3
+information system|web mining|2
+information system|data extraction|3
+information system|traffic analysis|3
+information system|web application|2
+information system|email|4
+information system|blog|4
+information system|texting|4
+information system|chat|4
+information system|webcast|4
+information system|crowdsourcing|3
+information system|trust|4
+information system|incentive mechanism|4
+information system|wikis|3
+information system|browser|3
+information system|mashups|3
+information system|web service|2
+information system|soap|3
+information system|rest|3
+information system|wsdl|3
+information system|uddi|3
+information system|xpath|4
+information system|xquery|4
+information system|rdf|4
+information system|owl|4
+information system|information retrieval|1
+information system|topic model|3
+information system|content analysis|3
+information system|query suggestion|3
+information system|language model|3
+information system|similarity measure|3
+information system|learning to rank|3
+information system|question answering|3
+information system|recommender system|3
+information system|data mining|2
+information system|information extraction|3
+information system|sentiment analysis|3
+information system|expert finding|3
+information system|document clustering|3
+information system|summarization|3
+information system|social tagging|3
+information system|image search|4
+information system|video search|4
+information system|music information retrieval|4
+information system|digital archive|2
+information system|application server|3
+information system|heap|4
+information system|linked-list|4
+information system|b-trees|4
+information system|locking|4
+information system|logging|4
+information system|shard|4
+information system|association rule|3
+information system|clustering|3
+information system|similarity search|3
+information system|data stream mining|3
+information system|reputation system|3
+information system|flash memory|4
+information system|phase change memory|4
+information system|distributed storage|3
+information system|electronic commerce|3
+information system|e-money|4
+information system|edi|4
+information system|electronic payment|4
+information system|online shopping|4
+information system|e-banking|4
+information system|online auction|4
+information system|open source software|3
+information system|lineage|4
+information system|incomplete data|4
+information system|novelty|3
+information system|temporal database|4
+information system|social networking site|3
+information system|physical model|3
+information system|extension|3
+information system|uncertainty|4
+information system|sql|4
+information system|deadlock|4
+information system|mapreduce|4
+information system|olap|3
+information system|deep web|4
+information system|surfacing|4
+information system|web service discovery|3
+information system|cocitation|3
+information system|web search|4
+information system|data center|3
+information system|platform|2
+information system|bpm|3
+information system|ontology|3
+information system|dictionary|3
+information system|thesaurus|3
+information system|global positioning system|3
+information system|business intelligence|3
+database|data model|1
+database|data structure|1
+database|data compression|3
+database|data encryption|3
+database|deduplication|2
+database|buffer management|2
+database|query language|1
+database|view|2
+database|data stream|3
+database|query optimization|3
+database|etl|2
+database|data exchange|2
+database|information integration|1
+database|wrapper|2
+database|xpath|3
+database|xquery|3
+database|application server|2
+database|locking|3
+database|logging|3
+database|lineage|3
+database|incomplete data|3
+database|temporal database|3
+database|physical model|2
+database|extension|2
+database|uncertainty|3
+database|sql|3
+database|deadlock|3
+database|mapreduce|3
+database|bpm|2
+data model|data stream|2
+data model|lineage|2
+data model|incomplete data|2
+data model|temporal database|2
+data model|physical model|1
+data model|extension|1
+data model|uncertainty|2
+data structure|data compression|2
+data structure|data encryption|2
+security and privacy|cryptography|1
+security and privacy|key management|2
+security and privacy|cryptanalysis|2
+security and privacy|authentication|2
+security and privacy|access control|2
+security and privacy|anonymity|2
+security and privacy|digital right management|2
+security and privacy|spyware|2
+security and privacy|intrusion detection system|2
+security and privacy|system security|1
+security and privacy|mobile security|3
+security and privacy|trusted computing|3
+security and privacy|database security|1
+security and privacy|software security|1
+security and privacy|biometrics|3
+security and privacy|hardware implementation|2
+security and privacy|authorization|2
+security and privacy|privacy protection|2
+security and privacy|block cipher|3
+security and privacy|hash function|3
+security and privacy|digital signature|3
+security and privacy|dam|2
+security and privacy|information flow control|2
+security and privacy|do attack|2
+security and privacy|spoofing|3
+security and privacy|phishing|3
+security and privacy|firewall|2
+security and privacy|tfa|3
+security and privacy|public key encryption|3
+cryptography|key management|1
+cryptography|cryptanalysis|1
+cryptography|block cipher|2
+cryptography|hash function|2
+cryptography|digital signature|2
+cryptography|public key encryption|2
+authentication|biometrics|1
+authentication|tfa|1
+system security|mobile security|2
+system security|trusted computing|2
+system security|information flow control|1
+system security|do attack|1
+system security|firewall|1
+database security|dam|1
+hcc|human-computer interaction|1
+hcc|interaction design|1
+hcc|social computing|1
+hcc|visualization|1
+hcc|ccc|3
+hcc|hypertext|3
+hcc|social recommendation|3
+hcc|social network|3
+hcc|social network analysis|3
+hcc|user model|3
+hcc|user study|3
+hcc|visual analytics|3
+hcc|augmented reality|3
+hcc|usability|3
+hcc|user interface design|3
+hcc|user-centered design|3
+hcc|cli|3
+hcc|graphical user interface|3
+hcc|virtual reality|3
+hcc|keyboard|3
+hcc|treemaps|3
+hcc|hypertree|3
+hcc|graph drawing|3
+hcc|dendrograms|3
+hcc|smartphones|3
+hcc|iwb|3
+hcc|mobile phone|3
+hcc|mobile device|3
+hcc|pmp|3
+hcc|pda|3
+hcc|e-book|3
+hcc|tablet|3
+hcc|ubiquitous computing|3
+hcc|mobile computing|3
+hcc|ambient intelligence|3
+hcc|cooperative design|3
+hcc|information visualization|3
+hcc|touch screen|3
+hcc|wireframes|3
+hcc|accessibility|1
+hcc|haptic device|3
+hcc|typing|3
+hcc|pointing|3
+hcc|social medium|3
+human-computer interaction|hypertext|2
+human-computer interaction|user model|2
+human-computer interaction|user study|2
+human-computer interaction|augmented reality|2
+human-computer interaction|usability|2
+human-computer interaction|cli|2
+human-computer interaction|graphical user interface|2
+human-computer interaction|virtual reality|2
+human-computer interaction|keyboard|2
+human-computer interaction|touch screen|2
+human-computer interaction|haptic device|2
+human-computer interaction|typing|2
+human-computer interaction|pointing|2
+interaction design|user interface design|2
+interaction design|user-centered design|2
+interaction design|cooperative design|2
+interaction design|wireframes|2
+social computing|ccc|2
+social computing|social recommendation|2
+social computing|social network|2
+social computing|social network analysis|2
+social computing|social medium|2
+visualization|visual analytics|2
+visualization|treemaps|2
+visualization|hypertree|2
+visualization|graph drawing|2
+visualization|dendrograms|2
+visualization|information visualization|2
+catalog|b-trees|1
+deduplication|information integration|-1
+query language|xpath|2
+query language|xquery|2
+query language|sql|2
+data stream|extension|-1
+etl|information integration|-1
+data exchange|information integration|-1
+data cleaning|data mining|-1
+information integration|wrapper|1
+enterprise information system|intranet|1
+enterprise information system|extranet|1
+enterprise information system|enterprise resource planning|1
+enterprise information system|data center|1
+decision support system|data warehouse|1
+decision support system|expert system|1
+decision support system|data analysis|1
+decision support system|olap|1
+world wide web|crawling|3
+world wide web|spam detection|3
+world wide web|collaborative filtering|2
+world wide web|personalization|2
+world wide web|online advertising|1
+world wide web|sponsored search|2
+world wide web|viral marketing|2
+world wide web|web mining|1
+world wide web|data extraction|2
+world wide web|traffic analysis|2
+world wide web|web application|1
+world wide web|email|3
+world wide web|blog|3
+world wide web|texting|3
+world wide web|chat|3
+world wide web|webcast|3
+world wide web|crowdsourcing|2
+world wide web|trust|3
+world wide web|incentive mechanism|3
+world wide web|browser|2
+world wide web|mashups|2
+world wide web|web service|1
+world wide web|soap|2
+world wide web|rest|2
+world wide web|wsdl|2
+world wide web|uddi|2
+world wide web|rdf|3
+world wide web|owl|3
+world wide web|social tagging|2
+world wide web|electronic commerce|2
+world wide web|e-money|3
+world wide web|edi|3
+world wide web|electronic payment|3
+world wide web|online shopping|3
+world wide web|e-banking|3
+world wide web|online auction|3
+world wide web|deep web|3
+world wide web|surfacing|3
+world wide web|web service discovery|2
+online advertising|sponsored search|1
+online advertising|viral marketing|1
+web mining|data extraction|1
+web mining|traffic analysis|1
+web mining|deep web|2
+web mining|surfacing|2
+data extraction|deep web|1
+data extraction|surfacing|1
+web application|email|2
+web application|blog|2
+web application|texting|2
+web application|chat|2
+web application|webcast|2
+web application|crowdsourcing|1
+web application|trust|2
+web application|incentive mechanism|2
+web application|electronic commerce|1
+web application|e-money|2
+web application|edi|2
+web application|electronic payment|2
+web application|online shopping|2
+web application|e-banking|2
+web application|online auction|2
+crowdsourcing|trust|1
+crowdsourcing|incentive mechanism|1
+web service|soap|1
+web service|rest|1
+web service|wsdl|1
+web service|uddi|1
+web service|web service discovery|1
+information retrieval|topic model|2
+information retrieval|content analysis|2
+information retrieval|query suggestion|2
+information retrieval|language model|2
+information retrieval|similarity measure|2
+information retrieval|learning to rank|2
+information retrieval|question answering|2
+information retrieval|recommender system|2
+information retrieval|information extraction|2
+information retrieval|sentiment analysis|2
+information retrieval|expert finding|2
+information retrieval|document clustering|2
+information retrieval|summarization|2
+information retrieval|image search|3
+information retrieval|video search|3
+information retrieval|music information retrieval|3
+information retrieval|novelty|2
+information retrieval|cocitation|2
+information retrieval|web search|3
+information retrieval|ontology|2
+information retrieval|dictionary|2
+information retrieval|thesaurus|2
+information retrieval|business intelligence|2
+data mining|association rule|1
+data mining|clustering|1
+data mining|similarity search|1
+data mining|data stream mining|1
+electronic commerce|e-money|1
+electronic commerce|edi|1
+electronic commerce|electronic payment|1
+electronic commerce|online shopping|1
+electronic commerce|e-banking|1
+electronic commerce|online auction|1
+lineage|extension|-1
+combinatorics|combinatorial problem|1
+combinatorics|generating function|1
+combinatorics|combinatorial optimization|1
+combinatorics|enumeration|1
+graph theory|tree|1
+graph theory|hypergraphs|1
+graph theory|random graph|1
+graph theory|graph coloring|1
+graph theory|network flow|1
+graph theory|matroids|1
+graph theory|graph algorithm|1
+graph theory|approximation algorithm|1
+density estimation|quantile regression|1
+stochastic process|markov process|1
+numerical analysis|fast fourier transform|1
+numerical analysis|interpolation|1
+numerical analysis|interval arithmetic|1
+numerical analysis|ad|1
+numerical analysis|mesh generation|1
+numerical analysis|discretization|1
+mathematical programming|linear programming|2
+mathematical programming|semidefinite programming|2
+mathematical programming|convex optimization|2
+mathematical programming|unimodality|2
+mathematical programming|integer programming|2
+mathematical programming|stochastic control|2
+mathematical programming|discrete optimization|1
+mathematical programming|network optimization|2
+mathematical programming|continuous optimization|1
+mathematical programming|quadratic programming|2
+mathematical programming|nonconvex optimization|2
+differential equation|ordinary differential equation|1
+differential equation|partial differential equation|1
+differential equation|dae|1
+differential equation|dvi|1
+λ-calculus|computational model|-2
+λ-calculus|computability|-1
+computational model|computability|1
+computational model|concurrency|1
+computational model|process calculus|2
+computational model|automaton|1
+concurrency|process calculus|1
+logic|modal logic|1
+logic|automated reasoning|1
+logic|constraint programming|1
+logic|constructivism|1
+logic|description logic|1
+logic|fmt|1
+scheduling algorithm|online algorithm|-2
+linear programming|continuous optimization|-1
+semidefinite programming|continuous optimization|-1
+convex optimization|continuous optimization|-1
+unimodality|continuous optimization|-1
+stochastic control|continuous optimization|-1
+kernel method|support vector machine|1
+kernel method|gaussian process|1
+incomplete data|extension|-1
+neural network|architecture|-2
+temporal database|extension|-1
+architecture|risc|2
+architecture|cisc|2
+architecture|pipelining|2
+architecture|parallel architecture|1
+architecture|vliw|2
+architecture|mimd|2
+architecture|simd|2
+architecture|systolic array|2
+architecture|distributed architecture|1
+architecture|peer-to-peer system|2
+architecture|reconfigurable computing|2
+architecture|heterogeneous system|2
+architecture|self-organizing network|2
+architecture|quantum computing|2
+parallel architecture|vliw|1
+parallel architecture|mimd|1
+parallel architecture|simd|1
+parallel architecture|systolic array|1
+distributed architecture|peer-to-peer system|1
+cyber-physical system|robotics|1
+cyber-physical system|autonomous robot|2
+cyber-physical system|sensor|1
+cyber-physical system|soc|1
+cyber-physical system|firmware|2
+cyber-physical system|embedded system|1
+cyber-physical system|embedded software|2
+robotics|autonomous robot|1
+firmware|embedded system|-1
+embedded system|embedded software|1
+extension|uncertainty|1
+discrete optimization|network optimization|1
+continuous optimization|quadratic programming|1
+continuous optimization|nonconvex optimization|1
+algorithm design|backtracking|1
+algorithm design|branch-and-bound|1
+algorithm design|divide and conquer|1
+algorithm design|dynamic programming|1
+algorithm design|preconditioning|1

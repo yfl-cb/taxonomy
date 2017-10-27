@@ -1,0 +1,628 @@
+network security|security protocol|1
+network security|mobile security|1
+network security|network|-2
+security protocol|network|-3
+mobile security|network|-3
+network|network architecture|1
+network|layering|3
+network|network protocol|1
+network|formal specification|3
+network|routing protocol|3
+network|transport protocol|2
+network|http|2
+network|router|3
+network|end-nodes|2
+network|wap|2
+network|domain|3
+network|packet classification|3
+network|deep packet inspection|3
+network|packet scheduling|3
+network|network performance|1
+network|network simulation|2
+network|local area network|3
+network|man|3
+network|wan|3
+network|network structure|2
+network|network reliability|2
+network|network mobility|2
+network|cloud computing|2
+network|location based service|2
+network|network management|2
+network|network monitoring|2
+network|network on chip|2
+network|home network|2
+network|san|2
+network|data center network|2
+network|mobile network|2
+network|overlay network|2
+network|peer-to-peer network|3
+network|smn|3
+network|wireless network|2
+network|ad hoc network|2
+network|internetwork|2
+network|cognitive radio|3
+network|fddi|5
+network|mesh network|4
+network|hybrid network|4
+network|nfs|2
+network|nic|3
+network|repeater|3
+network|network server|3
+network|wireless local area network|3
+network|wpan|3
+network|wireless mesh network|5
+network|mobile ad hoc network|3
+network|network measurement|2
+network|online social network|3
+network architecture|layering|2
+network protocol|formal specification|2
+network protocol|routing protocol|2
+network protocol|transport protocol|1
+network protocol|http|1
+network protocol|nfs|1
+end-nodes|nic|1
+end-nodes|network server|1
+wap|cognitive radio|1
+network performance|network simulation|1
+network performance|network measurement|1
+network structure|fddi|3
+network structure|mesh network|2
+network structure|hybrid network|2
+network structure|wireless mesh network|3
+overlay network|peer-to-peer network|1
+overlay network|smn|1
+overlay network|online social network|1
+wireless network|wireless local area network|1
+wireless network|wpan|1
+adt|programming language|-3
+adt|software|-4
+digital signal processing|hardware|-3
+beamforming|hardware|-3
+noise reduction|hardware|-3
+supply chain management|computer application|-3
+ranking|machine learning|-3
+ranking|supervised learning|-1
+extensible markup language|computer application|-4
+model checking|software|-3
+model checking|formal method|-1
+model checking|software|-4
+self-organization|parallel algorithm|-1
+boosting|machine learning|-3
+boosting|ensemble learning|-1
+computational biology|biological network|1
+computational biology|imaging|1
+computational biology|computer application|-2
+biological network|computer application|-3
+genomics|computer application|-2
+system biology|computer application|-2
+imaging|computer application|-3
+interoperability|software|-2
+interoperability|software|-3
+symbolic computation|optimization algorithm|2
+symbolic computation|ca|1
+artificial intelligence|natural language processing|1
+artificial intelligence|machine translation|2
+artificial intelligence|pragmatic|2
+artificial intelligence|nlg|2
+artificial intelligence|speech recognition|2
+artificial intelligence|phonology|2
+artificial intelligence|knowledge representation|1
+artificial intelligence|semantic network|2
+artificial intelligence|belief revision|2
+artificial intelligence|vagueness|2
+artificial intelligence|temporal logic|2
+artificial intelligence|logic programming|2
+artificial intelligence|spatial reasoning|2
+artificial intelligence|heuristic search|2
+artificial intelligence|control method|1
+artificial intelligence|control theory|2
+artificial intelligence|motion planning|2
+artificial intelligence|dai|1
+artificial intelligence|multi-agent system|2
+artificial intelligence|intelligent agent|2
+artificial intelligence|mobile agent|2
+artificial intelligence|computer vision|1
+artificial intelligence|image acquisition|2
+artificial intelligence|activity recognition|3
+artificial intelligence|video summarization|3
+artificial intelligence|robot vision|3
+artificial intelligence|camera calibration|3
+artificial intelligence|epipolar geometry|3
+artificial intelligence|hyperspectral imaging|3
+artificial intelligence|motion capture|3
+artificial intelligence|3d imaging|3
+artificial intelligence|image representation|3
+artificial intelligence|shape representation|3
+artificial intelligence|saliency detection|3
+artificial intelligence|image segmentation|3
+artificial intelligence|video segmentation|3
+artificial intelligence|object detection|3
+artificial intelligence|object recognition|3
+artificial intelligence|tracking|3
+artificial intelligence|reconstruction|3
+artificial intelligence|matching|3
+artificial intelligence|active vision|3
+natural language processing|machine translation|1
+natural language processing|pragmatic|1
+natural language processing|nlg|1
+natural language processing|speech recognition|1
+natural language processing|phonology|1
+knowledge representation|semantic network|1
+knowledge representation|belief revision|1
+knowledge representation|vagueness|1
+knowledge representation|temporal logic|1
+knowledge representation|logic programming|1
+knowledge representation|spatial reasoning|1
+control method|control theory|1
+control method|motion planning|1
+dai|multi-agent system|1
+dai|intelligent agent|1
+dai|mobile agent|1
+computer vision|image acquisition|1
+computer vision|activity recognition|2
+computer vision|video summarization|2
+computer vision|robot vision|2
+computer vision|camera calibration|2
+computer vision|epipolar geometry|2
+computer vision|hyperspectral imaging|2
+computer vision|motion capture|2
+computer vision|3d imaging|2
+computer vision|image representation|2
+computer vision|shape representation|2
+computer vision|saliency detection|2
+computer vision|image segmentation|2
+computer vision|video segmentation|2
+computer vision|object detection|2
+computer vision|object recognition|2
+computer vision|tracking|2
+computer vision|reconstruction|2
+computer vision|matching|2
+computer vision|active vision|2
+image acquisition|camera calibration|1
+image acquisition|epipolar geometry|1
+image acquisition|hyperspectral imaging|1
+image acquisition|motion capture|1
+image acquisition|3d imaging|1
+image acquisition|active vision|1
+anomaly detection|machine learning|-3
+anomaly detection|unsupervised learning|-1
+machine learning|supervised learning|2
+machine learning|unsupervised learning|2
+machine learning|reinforcement learning|2
+machine learning|multi-task learning|2
+machine learning|cost-sensitive learning|3
+machine learning|topic modeling|3
+machine learning|transfer learning|3
+machine learning|srl|3
+machine learning|mixture model|3
+machine learning|non-negative matrix factorization|3
+machine learning|factor analysis|3
+machine learning|principal component analysis|3
+machine learning|canonical correlation analysis|3
+machine learning|markov decision process|2
+machine learning|pomdp|2
+machine learning|deep belief network|3
+machine learning|q-learning|3
+machine learning|policy iteration|3
+machine learning|approximate dynamic programming|3
+machine learning|ensemble learning|2
+machine learning|bagging|3
+machine learning|spectral method|2
+machine learning|feature selection|2
+machine learning|regularization|2
+machine learning|cross-validation|1
+machine learning|latent dirichlet allocation|3
+supervised learning|cost-sensitive learning|1
+unsupervised learning|topic modeling|1
+multi-task learning|transfer learning|1
+ensemble learning|bagging|1
+modeling and simulation|model analysis|1
+modeling and simulation|modeling method|2
+modeling and simulation|model validation|2
+modeling and simulation|uq|2
+modeling and simulation|system theory|2
+modeling and simulation|discrete event simulation|2
+modeling and simulation|distributed simulation|2
+modeling and simulation|real-time simulation|2
+modeling and simulation|data assimilation|2
+modeling and simulation|scientific visualization|2
+model analysis|modeling method|1
+model analysis|model validation|1
+model analysis|uq|1
+animation|computer graphic|-1
+animation|physical simulation|1
+animation|collision detection|1
+computer graphic|rendering|1
+computer graphic|rasterization|2
+computer graphic|ray tracing|2
+computer graphic|non-photorealistic rendering|2
+computer graphic|visibility|2
+computer graphic|physical simulation|2
+computer graphic|collision detection|2
+computer graphic|image processing|2
+computer graphic|texturing|2
+computer graphic|image-based rendering|2
+computer graphic|antialiasing|2
+computer graphic|graphic processing unit|2
+computer graphic|gid|2
+computer graphic|perception|2
+computer graphic|image compression|1
+computer graphic|solid modeling|2
+computer graphic|surface modeling|2
+computer graphic|shape analysis|2
+rendering|rasterization|1
+rendering|ray tracing|1
+rendering|non-photorealistic rendering|1
+rendering|visibility|1
+computer application|eai|3
+computer application|business process management|2
+computer application|business process modeling|3
+computer application|service-oriented architecture|2
+computer application|business rule|2
+computer application|reference model|2
+computer application|it governance|2
+computer application|aerospace|2
+computer application|archaeology|2
+computer application|astronomy|2
+computer application|chemistry|2
+computer application|engineering|2
+computer application|computer-aided design|3
+computer application|physic|2
+computer application|mathematics|2
+computer application|electronics|2
+computer application|bioinformatics|2
+computer application|proteomics|3
+computer application|metabolomics|2
+computer application|transcriptomics|3
+computer application|anthropology|2
+computer application|ethnography|3
+computer application|law|2
+computer application|psychology|2
+computer application|economics|2
+computer application|sociology|2
+computer application|computer forensics|1
+computer application|data recovery|2
+computer application|publishing|2
+computer application|military|2
+computer application|cartography|2
+computer application|agriculture|2
+computer application|cam|2
+computer application|decision analysis|2
+computer application|transportation|2
+computer application|forecasting|2
+computer application|marketing|2
+computer application|education|1
+computer application|cai|2
+computer application|interactive learning environment|2
+computer application|collaborative learning|2
+computer application|learning management system|2
+computer application|distance learning|2
+computer application|e-learning|2
+computer application|cmi|2
+computer application|document management|2
+computer application|versioning|3
+computer application|document analysis|3
+computer application|optical character recognition|3
+computer application|handwriting recognition|3
+computer application|annotation|3
+computer application|multimedia|3
+computer application|image composition|3
+computer application|genetics|2
+computer application|e-government|3
+computer application|telecommunication|2
+computer application|avionics|3
+computer application|spreadsheet|3
+computer application|computer game|3
+computer application|microcomputer|3
+computer application|voice over ip|3
+business process management|business process modeling|1
+engineering|computer-aided design|1
+electronics|avionics|1
+proteomics|genetics|-1
+transcriptomics|genetics|-1
+anthropology|ethnography|1
+computer forensics|data recovery|1
+education|cai|1
+education|interactive learning environment|1
+education|collaborative learning|1
+education|learning management system|1
+education|distance learning|1
+education|e-learning|1
+education|cmi|1
+document management|versioning|1
+grid computing|software|-3
+grid computing|software|-4
+ad hoc network|mobile ad hoc network|1
+hardware|printed circuit board|1
+hardware|bus|2
+hardware|display|2
+hardware|printer|2
+hardware|sensor deployment|2
+hardware|integrated circuit|1
+hardware|3d ic|2
+hardware|interconnect|2
+hardware|parallel i/o|3
+hardware|optical interconnect|3
+hardware|memory|2
+hardware|dram|3
+hardware|sram|3
+hardware|non-volatile memory|3
+hardware|rom|3
+hardware|transistor|3
+hardware|asynchronous circuit|3
+hardware|finite state machine|3
+hardware|fpga|2
+hardware|accelerator|3
+hardware|ple|3
+hardware|vlsi design|1
+hardware|analog circuit|2
+hardware|data conversion|3
+hardware|asic|3
+hardware|asip|3
+hardware|design reuse|2
+hardware|mcm|3
+hardware|energy storage|2
+hardware|battery|3
+hardware|renewable energy|3
+hardware|energy distribution|2
+hardware|smart grid|3
+hardware|environmental impact|2
+hardware|power optimization|2
+hardware|temperature monitoring|3
+hardware|temperature control|3
+hardware|eda|1
+hardware|high-level synthesis|2
+hardware|resource sharing|3
+hardware|logic synthesis|2
+hardware|packaging|3
+hardware|partitioning|3
+hardware|placement|3
+hardware|timing analysis|2
+hardware|sta|3
+hardware|drc|3
+hardware|lvs|3
+hardware|thermal analysis|3
+hardware|dfd|3
+hardware|built-in self-test|3
+hardware|test data compression|3
+hardware|design for testability|2
+hardware|fault model|2
+hardware|atpg|2
+hardware|robustness|1
+hardware|fault tolerance|2
+hardware|error detection|3
+hardware|failure prediction|3
+hardware|failure recovery|3
+hardware|redundancy|3
+hardware|dfm|2
+hardware|process variation|3
+hardware|cost optimization|3
+hardware|signal integrity|3
+hardware|cellular neural network|3
+hardware|mem|3
+hardware|nems|3
+hardware|plasmonics|2
+hardware|spintronics|2
+hardware|scanner|2
+hardware|win|2
+hardware|quantum computation|3
+hardware|quantum communication|4
+hardware|quantum dot|3
+integrated circuit|3d ic|1
+integrated circuit|interconnect|1
+integrated circuit|parallel i/o|2
+integrated circuit|optical interconnect|2
+integrated circuit|memory|1
+integrated circuit|dram|2
+integrated circuit|sram|2
+integrated circuit|non-volatile memory|2
+integrated circuit|rom|2
+integrated circuit|transistor|2
+integrated circuit|asynchronous circuit|2
+integrated circuit|finite state machine|2
+integrated circuit|fpga|1
+integrated circuit|accelerator|2
+integrated circuit|ple|2
+interconnect|parallel i/o|1
+interconnect|optical interconnect|1
+memory|dram|1
+memory|sram|1
+memory|non-volatile memory|1
+memory|rom|1
+fpga|accelerator|1
+fpga|ple|1
+vlsi design|analog circuit|1
+vlsi design|data conversion|2
+vlsi design|asic|2
+vlsi design|asip|2
+vlsi design|design reuse|1
+vlsi design|mcm|2
+analog circuit|data conversion|1
+energy storage|battery|1
+energy storage|renewable energy|1
+energy distribution|smart grid|1
+eda|high-level synthesis|1
+eda|resource sharing|2
+eda|logic synthesis|1
+eda|packaging|2
+eda|partitioning|2
+eda|placement|2
+eda|timing analysis|1
+eda|sta|2
+high-level synthesis|resource sharing|1
+scheduling|software|-4
+scheduling|operating system|-2
+scheduling|process management|-1
+scheduling|software|-5
+timing analysis|sta|1
+built-in self-test|design for testability|-1
+test data compression|design for testability|-1
+robustness|fault tolerance|1
+robustness|error detection|2
+robustness|failure prediction|2
+robustness|failure recovery|2
+robustness|redundancy|2
+robustness|dfm|1
+robustness|process variation|2
+robustness|cost optimization|2
+robustness|signal integrity|2
+fault tolerance|error detection|1
+fault tolerance|failure prediction|1
+fault tolerance|failure recovery|1
+fault tolerance|redundancy|1
+dfm|process variation|1
+dfm|cost optimization|1
+rad|software|-4
+documentation|software|-3
+software|interpreter|3
+software|middleware|3
+software|mom|4
+software|virtual machine|3
+software|operating system|2
+software|memory management|3
+software|garbage collection|4
+software|process management|3
+software|multithreading|4
+software|multi-processing|4
+software|monitor|4
+software|synchronization|3
+software|mutual exclusion|4
+software|concurrency control|4
+software|power management|4
+software|buffering|4
+software|message passing|4
+software|video game|3
+software|software architecture|2
+software|petri net|3
+software|feature interaction|3
+software|correctness|2
+software|functionality|3
+software|consistency|3
+software|completeness|3
+software|formal method|2
+software|formal verification|3
+software|dynamic analysis|3
+software|software reliability|2
+software|software|-1
+software|checkpointing|3
+interpreter|software|-4
+middleware|mom|1
+middleware|software|-4
+mom|software|-5
+virtual machine|software|-4
+operating system|memory management|1
+operating system|garbage collection|2
+operating system|process management|1
+operating system|multithreading|2
+operating system|multi-processing|2
+operating system|monitor|2
+operating system|mutual exclusion|2
+operating system|concurrency control|2
+operating system|power management|2
+operating system|buffering|2
+operating system|message passing|2
+operating system|software|-3
+memory management|garbage collection|1
+memory management|software|-4
+garbage collection|software|-5
+process management|multithreading|1
+process management|multi-processing|1
+process management|monitor|1
+process management|mutual exclusion|1
+process management|concurrency control|1
+process management|power management|1
+process management|software|-4
+multithreading|software|-5
+multi-processing|software|-5
+monitor|software|-5
+synchronization|correctness|-1
+synchronization|software|-4
+mutual exclusion|software|-5
+concurrency control|software|-5
+power management|software|-5
+buffering|software|-5
+message passing|software|-5
+video game|software|-4
+software architecture|software|-3
+petri net|software|-4
+feature interaction|software|-4
+telecommunication|voice over ip|1
+correctness|functionality|1
+correctness|consistency|1
+correctness|completeness|1
+correctness|software|-3
+functionality|software|-4
+consistency|software|-4
+completeness|software|-4
+formal method|formal verification|1
+formal method|dynamic analysis|1
+formal method|software|-3
+formal verification|software|-4
+dynamic analysis|software|-4
+software reliability|software|-3
+programming language|software|-1
+programming language|polymorphism|3
+programming language|inheritance|3
+programming language|class|3
+programming language|module|3
+programming language|constraint|3
+programming language|recursion|3
+programming language|procedure|3
+programming language|pattern|3
+programming language|framework|3
+programming language|syntax|2
+programming language|compiler|1
+programming language|tws|2
+programming language|preprocessors|2
+programming language|idl|2
+programming language|unified modeling language|2
+programming language|architecture description language|2
+programming language|sysml|2
+programming language|semantics|2
+programming language|parser|2
+software|polymorphism|4
+software|inheritance|4
+software|class|4
+software|module|4
+software|constraint|4
+software|recursion|4
+software|procedure|4
+software|pattern|4
+software|framework|4
+software|syntax|3
+software|compiler|2
+software|tws|3
+software|preprocessors|3
+software|idl|3
+software|unified modeling language|3
+software|architecture description language|3
+software|sysml|3
+software|software design|2
+software|requirement analysis|3
+software|agile|4
+software|cmm|4
+software|v-model|4
+software|design pattern|4
+software|risk management|3
+software|object-oriented programming|3
+software|flowchart|3
+software|reusability|3
+software|software product line|4
+software|checkpointing|4
+software|software testing|4
+software|fault tree analysis|3
+software|walkthroughs|4
+software|use case|4
+software|traceability|4
+software|backup|3
+software|software evolution|3
+software|semantics|3
+software|parser|3
+software|error recovery|3
+compiler|tws|1
+compiler|preprocessors|1
+compiler|parser|1
+software design|requirement analysis|1
+reusability|software product line|1
+mesh network|wireless mesh network|1
+quantum computation|quantum communication|1
