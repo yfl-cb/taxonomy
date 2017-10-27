@@ -5,3 +5,5 @@ data_archive/
 .idea/
 .DS_Store
 __pycache__/
+data/
+log/

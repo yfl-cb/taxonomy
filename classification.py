@@ -1,11 +1,14 @@
 from keras.layers import Dense, Dropout
 from keras.models import Sequential
-from sklearn.model_selection import train_test_split
+from sklearn.metrics import precision_score, f1_score, recall_score
 from random import shuffle
 import keras.backend as K
+import pickle, utils
 
 
 embedding = {}
+voc = pickle.load(open('data/generated_vocabulary.pkl', 'rb'))
+rvoc = {v: k for k, v in voc.items()}
 
 
 def read_embedding():
@@ -15,7 +18,15 @@ def read_embedding():
 
 
 def split(arr):
-    return [i[0] for i in arr], [i[1] for i in arr]
+    return [(i[0], i[1]) for i in arr], [i[2] for i in arr], [i[3] for i in arr]
+
+
+def output_prediction(X_test_labels, y_true, y_pred, y_prob):
+    with open('data/output_prediction.csv', 'w') as f:
+        f.write('Word1,Word2,TrueLabel,PredictedLabel,Probability\n')
+        for i in range(len(X_test_labels)):
+            w1, w2 = X_test_labels[i]
+            f.write(','.join([rvoc[w1], rvoc[w2], str(y_true[i]), str(y_pred[i][0]), str(y_prob[i][0])]) + '\n')
 
 
 def read_data(test_percent=0.5):
@@ -30,7 +41,6 @@ def read_data(test_percent=0.5):
     #             k1, k2 = k2, k1
     #         ps.append((embedding[k1] + embedding[k2], 1))
 
-
     training_ws, testing_ws = set(), set()
     for line in open('data/cl2_pairs_training.txt'):
         parts = line.split('|')
@@ -39,7 +49,7 @@ def read_data(test_percent=0.5):
         training_ws.add(k2)
         if w < 0:
             k1, k2 = k2, k1
-        ps_tr.append((embedding[k1] + embedding[k2], 1))
+        ps_tr.append((k1, k2, embedding[k1] + embedding[k2], 1))
     for line in open('data/cl2_pairs_test.txt'):
         parts = line.split('|')
         k1, k2, w = int(parts[0]), int(parts[1]), float(parts[2])
@@ -47,19 +57,19 @@ def read_data(test_percent=0.5):
         testing_ws.add(k2)
         if w < 0:
             k1, k2 = k2, k1
-        ps_ts.append((embedding[k1] + embedding[k2], 1))
+        ps_ts.append((k1, k2, embedding[k1] + embedding[k2], 1))
     for line in open('data/cl2_no_relation_training.txt'):
         parts = line.split('|')
         k1, k2 = int(parts[0]), int(parts[1])
         training_ws.add(k1)
         training_ws.add(k2)
-        ns_tr.append((embedding[k1] + embedding[k2], 0))
+        ns_tr.append((k1, k2, embedding[k1] + embedding[k2], 0))
     for line in open('data/cl2_no_relation_test.txt'):
         parts = line.split('|')
         k1, k2 = int(parts[0]), int(parts[1])
         testing_ws.add(k1)
         testing_ws.add(k2)
-        ns_ts.append((embedding[k1] + embedding[k2], 0))
+        ns_ts.append((k1, k2, embedding[k1] + embedding[k2], 0))
 
     ps_tr = ps_tr * 3
     ps_ts = ps_ts * 3
@@ -76,9 +86,9 @@ def read_data(test_percent=0.5):
     print('# of testing positives: ', len(ns_ts))
     print('# of training & testing word intersection: ', len(training_ws & testing_ws))
 
-    X_train, y_train = split(train)
-    X_test, y_test = split(test)
-    return X_train, X_test, y_train, y_test
+    X_train_labels, X_train, y_train = split(train)
+    X_test_labels, X_test, y_test = split(test)
+    return X_train, X_test, y_train, y_test, X_train_labels, X_test_labels
 
     # ps = ps * 7
     # print('# of positives: ', len(ps))
@@ -154,7 +164,7 @@ def fmeasure(y_true, y_pred):
 
 if __name__ == '__main__':
     read_embedding()
-    X_train, X_test, y_train, y_test = read_data()
+    X_train, X_test, y_train, y_test, X_train_labels, X_test_labels = read_data()
 
     model = Sequential()
     model.add(Dense(64, input_dim=512, activation='relu'))
@@ -171,3 +181,12 @@ if __name__ == '__main__':
               epochs=20,
               batch_size=128)
     score = model.evaluate(X_test, y_test, batch_size=128)
+    output_probs = model.predict(X_test)
+    outputs = model.predict_classes(X_test)
+    output_prediction(X_test_labels, y_test, outputs, output_probs)
+
+    output_flat = utils.flatten(outputs)
+    print()
+    print('Precision:', precision_score(y_test, output_flat))
+    print('Recall:', recall_score(y_test, output_flat))
+    print('F1-score:', f1_score(y_test, output_flat))
